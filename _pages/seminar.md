@@ -7,7 +7,7 @@ permalink: /seminar/
 ---
 
 # Seminars
-* 2025.03.11, Predicting hypernuclei based on chiral interactions, Andreas Nogga, Senior Scientist, IAS-4, Forschungszentrum Jülich, [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/seminar-tongji-2025-nogga.pdf)
+* 2025.03.11, Predicting hypernuclei based on chiral interactions, Andreas Nogga, Senior Scientist, IAS-4, Forschungszentrum Jülich
 * 2024.11.15, Introduction to the Science of Superheavy, Witold Nazarewicz, Professor, FRIB/MSU,  [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/SHE-Tongji-Nazarewicz.pptx)
 * 2024.07.22, 北京航空航天大学医学物理简介, 张高龙, 教授, 北京航空航天大学, [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/北京航空航天大学医学物理-同济大学报告.pdf), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/组里研究概况-同济大学.pdf)
 * 2024.07.08, 不稳定核的精密激光核谱学研究：进展与展望, 杨晓菲, 教授, 北京大学, [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/不稳定核的精密激光核谱-进展与展望-杨晓菲.pdf)
