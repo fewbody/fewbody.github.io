@@ -1,3 +1,30 @@
 _site
 .sass-cache
 .jekyll-metadata
+
+# Large files that should not be committed to the main branch
+# Use the downloads-storage branch for large files instead
+downloads/*.pdf
+downloads/*.pptx
+downloads/*.ppt
+downloads/*.ppsx
+
+# Files larger than 10MB should go to downloads-storage branch
+# *.pdf
+# *.pptx
+# *.ppt
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
