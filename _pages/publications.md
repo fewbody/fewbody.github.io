@@ -13,6 +13,10 @@ permalink: /publications/
 ## Full List of publications
 
 * <em>Jin Lei</em><br /> 
+Numerical assessment of convergence in the post-form ichimura-austern-vincent model <br /> 
+<a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.112.014609">Phys. Rev. C 112, 014609 (2025)</a>
+
+* <em>Jin Lei</em><br /> 
 Continuum effects and the Trojan horse mechanism in halo nuclei-induced reactions: Implications for heavy isotope synthesis <br /> 
 <a href="https://doi.org/10.1103/PhysRevC.111.034610">Phys. Rev. C 111, 034610 (2025)</a>
 

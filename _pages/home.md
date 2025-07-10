@@ -193,14 +193,16 @@ permalink: /
 
 **About QFBD Research Group:**
 
+The Quantum Few-Body Dynamics (QFBD) Research Group, established in 2020 at the School of Physics Science and Engineering, Tongji University, is at the forefront of theoretical nuclear physics research. Led by Professor Jin Lei, our interdisciplinary team specializes in quantum few-body dynamics and nuclear reaction theory, with particular expertise in exotic nuclei and weakly bound systems.
 
-The Quantum Few-Body Dynamics Research Group was established in 2020 and 
-is affiliated with School of Physics Science and Engineering at Tongji University, 
-led by Professor Jin Lei. The group's research focuses on utilizing quantum 
-few-body models to study nuclear reaction processes, especially weakly bound nuclei induced reactions. 
-The group's theoretical work involves quantum scattering theory, 
-quantum few-body models, Faddeev equations, Continuum-Discretized Coupled-Channels (CDCC), DWBA, 
-and the Ichimura-Austern-Vincent model.
+**Research Focus:**
+- **Nuclear Reaction Dynamics**: Advanced theoretical modeling of nuclear reactions involving halo and weakly bound nuclei
+- **Quantum Few-Body Systems**: Development and application of sophisticated few-body models including Faddeev equations and continuum methods
+- **Computational Nuclear Physics**: Creation of cutting-edge computational tools and algorithms for nuclear structure and reaction calculations
+- **Breakup and Fusion Mechanisms**: Investigation of reaction mechanisms in weakly bound projectile-induced processes
+
+**Theoretical Expertise:**
+Our research employs state-of-the-art theoretical frameworks including quantum scattering theory, Continuum-Discretized Coupled-Channels (CDCC), Distorted Wave Born Approximation (DWBA), the Ichimura-Austern-Vincent (IAV) model, and complex scaling methods. We bridge fundamental quantum mechanics with practical nuclear physics applications.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -234,9 +236,10 @@ and the Ichimura-Austern-Vincent model.
 </div>
 
 
-In previous work, the group used the quantum three-body IAV model to study 
-the breakup and fusion reactions of weakly bound nuclei. 
-Some of the group's representative works include
+**Research Achievements:**
+Our group has made significant contributions to understanding nuclear reaction mechanisms, particularly in weakly bound systems. We have developed novel theoretical approaches that have advanced the field's understanding of breakup and fusion processes. Our work has been published in top-tier journals and has influenced experimental programs worldwide.
+
+**Highlighted Publications:**
 
 1. Jin Lei and Antonio M. Moro, ‘Unraveling the Reaction Mechanisms Leading to Partial Fusion of Weakly Bound Nuclei’, Phys. Rev. Lett. 123, 232501 (2019).
 2. Jin Lei and Antonio M. Moro, ‘Puzzle of Complete Fusion Suppression in Weakly Bound Nuclei: A Trojan Horse Effect?’, Phys. Rev. Lett. 122, 042503 (2019).
@@ -248,7 +251,10 @@ Some of the group's representative works include
 
 
 
-The group plans to recruit one doctoral student, one master's student, and postdoctoral researchers every year. You can contact the group at jinl@tongji.edu.cn.
+**Opportunities:**
+We actively seek talented and motivated researchers to join our team. The group recruits doctoral students, master's students, and postdoctoral researchers annually. We welcome applications from candidates with strong backgrounds in theoretical physics, nuclear physics, or computational physics who are interested in contributing to cutting-edge research in quantum few-body dynamics.
+
+**Contact:** For inquiries about research opportunities, collaborations, or general information, please contact Professor Jin Lei at [jinl@tongji.edu.cn](mailto:jinl@tongji.edu.cn).
 
 We are grateful for funding from [Tongji University](https://en.tongji.edu.cn/index.htm) and [NSFC](http://www.nsfc.gov.cn).
 
