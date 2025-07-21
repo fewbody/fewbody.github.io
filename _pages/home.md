@@ -203,8 +203,6 @@ Nuclear physics stands at the crossroads of fundamental science and transformati
 
 **🏥 Medical Miracles**: Radioisotopes produced through nuclear reactions enable life-saving medical imaging, cancer treatments, and therapeutic procedures. Nuclear physics research continues to develop new isotopes and techniques that save millions of lives annually.
 
-**🚀 Space Exploration**: Radioisotope thermoelectric generators power deep space missions to the outer planets and beyond, while nuclear propulsion could enable faster interplanetary travel and missions to nearby stars.
-
 The Quantum Few-Body Dynamics (QFBD) Research Group, established in 2020 at the School of Physics Science and Engineering, Tongji University, is at the forefront of theoretical nuclear physics research. Led by Professor Jin Lei, our interdisciplinary team specializes in quantum few-body dynamics and nuclear reaction theory, with particular expertise in exotic nuclei and weakly bound systems.
 
 ### What are Nuclear Reactions?
@@ -250,6 +248,10 @@ Our research employs state-of-the-art theoretical frameworks including quantum s
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
     </ol>
 
     <!-- Items -->
@@ -259,6 +261,18 @@ Our research employs state-of-the-art theoretical frameworks including quantum s
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PhysRevLett.123.jpeg" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TBCM.jpeg" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CorrelationTable.jpeg" alt="Slide 4" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
