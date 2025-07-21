@@ -193,13 +193,54 @@ permalink: /
 
 **About QFBD Research Group:**
 
+### Why Study Nuclear Physics?
+
+Nuclear physics stands at the crossroads of fundamental science and transformative applications that shape our world:
+
+**🌟 Unlocking the Universe's Secrets**: From powering the stars through fusion to creating the heavy elements in supernovae, nuclear reactions are the cosmic engines that make life possible. Understanding these processes helps us decode how the universe evolved from primordial hydrogen to the complex matter we see today.
+
+**⚡ Clean Energy Future**: Nuclear fusion promises virtually limitless clean energy, while advanced nuclear reactors could provide carbon-free power for centuries. Breakthrough discoveries in nuclear physics directly translate to solving humanity's energy challenges.
+
+**🏥 Medical Miracles**: Radioisotopes produced through nuclear reactions enable life-saving medical imaging, cancer treatments, and therapeutic procedures. Nuclear physics research continues to develop new isotopes and techniques that save millions of lives annually.
+
+**🚀 Space Exploration**: Radioisotope thermoelectric generators power deep space missions to the outer planets and beyond, while nuclear propulsion could enable faster interplanetary travel and missions to nearby stars.
+
 The Quantum Few-Body Dynamics (QFBD) Research Group, established in 2020 at the School of Physics Science and Engineering, Tongji University, is at the forefront of theoretical nuclear physics research. Led by Professor Jin Lei, our interdisciplinary team specializes in quantum few-body dynamics and nuclear reaction theory, with particular expertise in exotic nuclei and weakly bound systems.
 
-**Research Focus:**
-- **Nuclear Reaction Dynamics**: Advanced theoretical modeling of nuclear reactions involving halo and weakly bound nuclei
-- **Quantum Few-Body Systems**: Development and application of sophisticated few-body models including Faddeev equations and continuum methods
-- **Computational Nuclear Physics**: Creation of cutting-edge computational tools and algorithms for nuclear structure and reaction calculations
-- **Breakup and Fusion Mechanisms**: Investigation of reaction mechanisms in weakly bound projectile-induced processes
+### What are Nuclear Reactions?
+
+A nuclear reaction is a process involving the collision or interaction between atomic nuclei or between a nucleus and a subatomic particle, resulting in changes to nuclear composition, structure, or energy state. In our research, we focus on reaction types that can be effectively studied using few-body models:
+
+- **Fusion**: Light nuclei combine to form heavier ones - the power source of stars and future clean energy
+- **Breakup**: Weakly bound nuclei dissociate into fragments upon collision, revealing their internal structure
+- **Transfer**: Nucleons move between colliding nuclei, providing insights into nuclear forces and structure
+- **Scattering**: Elastic and inelastic collisions that probe nuclear properties without permanent changes
+
+These reactions are particularly important in exotic nuclei near the neutron and proton drip lines, where conventional nuclear models often fail. Our research focuses on halo nuclei and other weakly bound systems where few-body approaches excel, providing crucial insights for both fundamental understanding and practical applications in astrophysics and nuclear technology.
+
+### The Power of Few-Body Models in Nuclear Physics
+
+While atomic nuclei contain many protons and neutrons, certain nuclear systems - particularly exotic nuclei near the limits of nuclear stability - naturally organize into cluster-like structures that can be described as few-body problems. This revelation has opened powerful new theoretical pathways.
+
+**The Few-Body Advantage:**
+
+🎯 **Precision Through Simplification**: Rather than tackling the impossible task of solving the full many-body Schrödinger equation for all nucleons, few-body models focus on the dominant clusters. For example, the halo nucleus ¹¹Be behaves as a ¹⁰Be core plus a loosely bound neutron - a much more tractable three-body problem when it collides with a target.
+
+🔬 **Exotic Nuclei Expertise**: Weakly bound nuclei near the drip lines exhibit enhanced breakup and transfer probabilities. Few-body models excel here because they naturally incorporate the continuum states where fragments escape. Our Continuum-Discretized Coupled-Channels (CDCC) and Distorted Wave Born Approximation (DWBA) methods capture these quantum effects precisely.
+
+⚡ **Computational Breakthrough**: Using Faddeev equations for three-body systems and advanced continuum methods, we achieve near-exact solutions that would be impossible with full many-body approaches. This enables detailed predictions for breakup cross-sections, transfer probabilities, and fusion hindrance mechanisms.
+
+🌌 **Astrophysical Connection**: Many stellar nucleosynthesis reactions involve light, unstable nuclei that naturally fit few-body descriptions. Our theoretical predictions directly inform understanding of element creation in stars and explosive astrophysical events.
+
+**Real-World Impact**: Our few-body calculations have revealed phenomena like the "Trojan Horse Effect" in fusion reactions and explained puzzling experimental observations of complete fusion suppression in weakly bound systems. These insights influence experimental programs at major accelerator facilities worldwide and advance our fundamental understanding of how matter behaves at nuclear scales.
+
+### Our Research Excellence
+
+**Core Research Areas:**
+- **🎯 Nuclear Reaction Dynamics**: Advanced theoretical modeling of breakup, transfer, and fusion reactions in halo and weakly bound nuclei
+- **⚛️ Quantum Few-Body Systems**: Development and application of sophisticated few-body models including Faddeev equations and continuum methods  
+- **💻 Computational Nuclear Physics**: Creation of cutting-edge computational tools and algorithms for nuclear structure and reaction calculations
+- **🔬 Exotic Nuclear Phenomena**: Investigation of reaction mechanisms unique to weakly bound projectile-induced processes
 
 **Theoretical Expertise:**
 Our research employs state-of-the-art theoretical frameworks including quantum scattering theory, Continuum-Discretized Coupled-Channels (CDCC), Distorted Wave Born Approximation (DWBA), the Ichimura-Austern-Vincent (IAV) model, and complex scaling methods. We bridge fundamental quantum mechanics with practical nuclear physics applications.
@@ -209,11 +250,6 @@ Our research employs state-of-the-art theoretical frameworks including quantum s
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Items -->
