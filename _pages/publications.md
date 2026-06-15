@@ -13,6 +13,26 @@ permalink: /publications/
 ## Full List of publications
 
 * <em>Jin Lei</em><br /> 
+Exterior complex scaling enables physics-informed neural networks for nuclear reactions <br /> 
+<a href="https://doi.org/10.1103/sjz4-pq6p">Phys. Rev. C (in press, 2026)</a>
+
+* <em>Hao Liu, Jin Lei, and Zhongzhou Ren</em><br /> 
+Channel couplings redirect absorbed flux from peripheral loss to fusion in weakly bound nuclear reactions <br /> 
+<a href="https://doi.org/10.1016/j.physletb.2026.140479">Phys. Lett. B 877, 140479 (2026)</a>
+
+* <em>Hao Liu, Jin Lei, and Zhongzhou Ren</em><br /> 
+Coherent absorption dynamics: The dual role of off-diagonal couplings in weakly bound nuclei <br /> 
+<a href="https://doi.org/10.1103/bgwc-x5wj">Phys. Rev. C 113, 054601 (2026)</a>
+
+* <em>Jin Lei</em><br /> 
+Reduced basis emulator for elastic scattering in continuum-discretized coupled-channels calculations <br /> 
+<a href="https://doi.org/10.1103/n24x-d9gm">Phys. Rev. C 113, 044610 (2026)</a>
+
+* <em>Jin Lei</em><br /> 
+Direct boundary matching: A bound-state technique for nuclear scattering with Lagrange-Legendre functions <br /> 
+<a href="https://doi.org/10.1103/ddcx-cslb">Phys. Rev. C 113, 024614 (2026)</a>
+
+* <em>Jin Lei</em><br /> 
 Numerical assessment of convergence in the post-form ichimura-austern-vincent model <br /> 
 <a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.112.014609">Phys. Rev. C 112, 014609 (2025)</a>
 
