@@ -19,7 +19,7 @@ permalink: /seminar/
 * 2024.04.11, Reactions of weakly-bound nuclei at near-barrier energies, 林承键, 研究员, 院子能科学研究院, [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/同济报告-林承键.ppt)
 * 2023.11.09, The Hyperspherical Harmonic basis for ab-initio nuclear physics, Alex Gnech, Postdoc, ECT*, [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/Tongji_pres.pdf)
 * 2023.10.25, Modeling neutrinoless double-beta decay with operators from chiral effective field theory, 尧江明, 教授, 中山大学, [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/ChiralEFT_for_NLDBD_Tongji.pdf)
-* 2023.09.07, 基于(p, pN)单核子移除反应的原子核结构研究, 孙叶磊, 副教授, 北京航空航天大学
+* 2023.09.07, 基于(p, pN)单核子移除反应的原子核结构研究, 孙叶磊, 副教授, 北京航空航天大学, [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/同济20230907_孙叶磊.pdf)
 * 2023.08.21, Isospin dynamics in heavy ion reactions, 肖志刚, 教授, 清华大学
 * 2023.06.20, 高频引力波天文学简介, 范锡龙, 教授, 武汉大学, [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/高频引力波天文学_2023_06.pdf)
 * 2023.06.07, 原子核的简单规律, 赵玉民, 教授, 上海交通大学, [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/原子核的简单规律--赵玉民.pptx)

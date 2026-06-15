@@ -45,7 +45,7 @@ permalink: /groupmeeting/
 # 2023/10/31
 * Alpha Decay and Resonance. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/20231031.pdf)
 * Observables calculation. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/cross section4.pdf)
-* Analysis of the 16C(d, p)17Creaction from microscopic 17C wave functions. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/mircoscopic.pdf)
+* Analysis of the 16C(d, p)17Creaction from microscopic 17C wave functions. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/microscopic.pdf)
 
 # 2023/10.24
 * The Theory of Alpha Decay. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/20231024.pdf)
@@ -62,7 +62,7 @@ permalink: /groupmeeting/
 * Calculations of three-body observables in 8B breakup. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/observable.pdf), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/cross section.pdf)
 
 # 2023/9/26
-* Experiment data fitting. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/Indian experiment2.pdf)
+* Experiment data fitting. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/Indian experiment.pdf)
 * Resonance phenomena: from compound nucleus decay to proton radioactivity. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/20230926.pdf)
 * Bin state and pseudo state methods. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/2023.9.26.pdf)
 
@@ -121,7 +121,7 @@ permalink: /groupmeeting/
 * Transformed Harmonic oscillator. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/ho_basis.pdf), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/ho1.pdf), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/ho2.pdf) 
 * Benchmark with Glauber model. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/elasticscattering.pdf), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/benchmark2.pdf), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/benchmark3.pdf), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/benchmark.pdf), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/reference.pdf)
 * Researching on semi-classical surface approximation. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/2023.2.14.pdf), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/2023.2.21.pdf), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/2023.2.28.pdf), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/2023.3.7.pdf), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/2023.3.14.pdf)
-* Single folding potential. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/组会.pptx), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/组会2.pptx), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/组会3.pptx), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/组会4.pptx), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/组会6.pptx)
+* Single folding potential. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/组会.pptx), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/组会 2.pptx), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/组会3.pptx), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/组会4.pptx), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/组会6.pptx)
 * Homework. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/hw.pdf), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/hw2.pdf), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/hw3.pdf) 
 * 6j symbol. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/notes.pdf)
 * Weakly bound nucleus. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/weakbound1.pdf), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/weakbound2.pdf)
@@ -133,7 +133,7 @@ permalink: /groupmeeting/
 * Dominance of Tensor Correlations in High-Momentum Nucleon Pairs Studied by (p, pd) Reaction. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/d1129.pdf)
 
 # 2022/11/22
-* Deep underground laboratory measurement of 13C(α, n)16O in the Gamow windows of the s and i Processes. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/gamow-window.pdf), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/12C.pdf)
+* Deep underground laboratory measurement of 13C(α, n)16O in the Gamow windows of the s and i Processes. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/gamow-window.pdf), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/13C.pdf)
 
 # 2022/11/15
 * Quasifree neutron knockout from 54Ca corroborates arising N = 34 neutron magic number. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/document copy.pdf)
@@ -154,7 +154,7 @@ permalink: /groupmeeting/
 * Two-neutron halo is unveiled in 29F. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/halo.pdf), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/sdf.pptx)
 
 # 2022/9/27
-* Surface localization of the dinuetron in 11Li. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/2022.9.27.pdf), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/dineutron (1).pdf)
+* Surface localization of the dinuetron in 11Li. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/2022.9.27.pdf), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/dineutron%20%281%29.pdf)
 
 # 2022/9/20
 * Systematic reduction of the proton-removal cross section in neutron-rich medium-mass nuclei. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/2022.9.20.pdf), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/Systematic reduction of the proton.pptx)
@@ -179,7 +179,7 @@ permalink: /groupmeeting/
 
 # 2022/6/2 
 * Quantum computing. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/0602-武亦文-量子计算.pdf), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/dyyd20220602.pdf),[slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/量子计算notes.pdf)
-* Tensor analysis of special relativity. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/狭义相对论的张量分析(2).pdf)
+* Tensor analysis of special relativity. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/狭义相对论的张量分析%282%29.pdf)
 * Folding potential.[slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/firth week.pdf)
 
 
@@ -193,7 +193,7 @@ permalink: /groupmeeting/
 
 
 # 2022/5/19
-* IAV model. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/DirectNuclearReaction(1).pdf), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/IAV3.pdf)
+* IAV model. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/DirectNuclearReaction%281%29.pdf), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/IAV3.pdf)
 * Quantum computing. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/量子计算note3.pdf),[slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/0519-武亦文-量子计算.pdf), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/dyyd.pdf)
 * Nuclear astrophysics. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/用现实核力求解np束缚态.pdf)
 * Bayes analysis. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/519morn.pdf)
@@ -206,7 +206,7 @@ permalink: /groupmeeting/
 * IAV model. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/DirectNuclearReaction.pdf), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/IAV2.pdf)
 * Quantum computing. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/量子计算notes_5_12_2022.pdf),[slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/0512-武亦文-量子计算.pdf), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/丁杨一迪汇报2.pdf)
 * Nuclear astrophysics. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/态空间的张量积.pdf), [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/Nuclear Equation of State.pdf)
-* Bayes analysis. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/511(5).pdf)
+* Bayes analysis. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/511%285%29.pdf)
 * Folding potential.
 * Scattering theory. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/document.pdf)
 

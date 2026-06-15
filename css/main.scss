@@ -3,15 +3,30 @@
     
 @import "bootstrap";
 
-img { margin-bottom: 24px; 
-     margin-top: 17px; 
+/* ===== Hand-drawn typography, matching jinleiphys.github.io ===== */
+$hand-body: "Patrick Hand", "Comic Neue", -apple-system, "Segoe UI", Roboto, cursive, sans-serif;
+$hand-head: "Caveat", "Comic Neue", "Patrick Hand", cursive;
+
+img { margin-bottom: 24px;
+     margin-top: 17px;
     border-radius:2%;
 }
 
 
 body {
 	padding-top: 70px;
+	font-family: $hand-body;
+	background-color: #fcf8f0; /* warm paper, matching personal site */
 }
+
+h1, h2, h3, h4, h5, h6,
+.navbar-brand {
+	font-family: $hand-head;
+}
+
+/* Caveat has a small x-height; nudge headings up so they read at the same weight */
+.navbar-brand { font-size: 24px; }
+h1 { font-weight: 700; }
 
 figcaption {
     text-align: right;
