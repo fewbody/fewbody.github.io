@@ -14,7 +14,7 @@ permalink: /publications/
 
 * <em>Jin Lei</em><br /> 
 Exterior complex scaling enables physics-informed neural networks for nuclear reactions <br /> 
-<a href="https://doi.org/10.1103/sjz4-pq6p">Phys. Rev. C (in press, 2026)</a>
+<a href="https://doi.org/10.1103/sjz4-pq6p">Phys. Rev. C 113, 064618 (2026)</a>
 
 * <em>Hao Liu, Jin Lei, and Zhongzhou Ren</em><br /> 
 Channel couplings redirect absorbed flux from peripheral loss to fusion in weakly bound nuclear reactions <br /> 
