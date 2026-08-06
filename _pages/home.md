@@ -353,52 +353,47 @@ permalink: /
 <section class="section">
 
   <p class="section-kicker"><span class="l-en">What we work on</span><span class="l-zh">我们做什么</span></p>
-  <h2 class="l-en">A theory group, working on reactions between nuclei</h2>
-  <h2 class="l-zh">一个做核反应理论的课题组</h2>
+  <h2 class="l-en">Reaction theory for weakly bound nuclei</h2>
+  <h2 class="l-zh">弱束缚核的反应理论</h2>
 
-  <p class="lede l-en">We compute what happens when two nuclei collide, with an emphasis on projectiles bound so weakly that they come apart during the collision, and we build the numerical machinery that makes such calculations possible in the first place.</p>
-  <p class="lede l-zh">我们计算两个原子核相撞时会发生什么，重点是那些束缚得极弱、在碰撞过程中就会散开的入射核，同时我们也在造让这类计算成为可能的数值工具。</p>
+  <p class="lede l-en">We compute what happens when two nuclei collide. The projectiles we care about most are bound so weakly that they come apart during the collision, so the continuum has to be in the calculation from the start rather than added afterwards as a correction.</p>
+  <p class="lede l-zh">我们算的是两个原子核撞在一起会发生什么。最关心的入射核束缚得极弱，碰撞过程中就会散开，所以连续态必须从一开始就在计算里，而不是事后当作修正项加上去。</p>
 
   <ul class="line-list">
 
     <li>
-      <span class="line-tag">Inclusive breakup &middot; incomplete fusion</span>
-      <h3 class="l-en">Where does the projectile go?</h3>
-      <h3 class="l-zh">入射核究竟去了哪里</h3>
-      <p class="l-en">When a weakly bound projectile such as <sup>6</sup>Li, <sup>9</sup>Be or <sup>11</sup>Be strikes a target, only part of it may be captured. We work in the Ichimura-Austern-Vincent framework and its coupled-channel extensions to separate elastic from nonelastic breakup, and to explain why complete fusion is suppressed for such projectiles.</p>
-      <p class="l-zh">当 <sup>6</sup>Li、<sup>9</sup>Be、<sup>11</sup>Be 这类弱束缚核打在靶上时，可能只有其中一部分被俘获。我们用 Ichimura-Austern-Vincent 模型及其耦合道推广，把弹性破裂和非弹性破裂分开，并解释这类入射核的完全熔合为什么会被压低。</p>
+      <h3 class="l-en">Inclusive breakup and incomplete fusion</h3>
+      <h3 class="l-zh">非弹性破裂与不完全熔合</h3>
+      <p class="l-en">When a weakly bound projectile such as <sup>6</sup>Li, <sup>9</sup>Be or <sup>11</sup>Be hits a target, only part of it may be captured. What gets measured is one fragment, and that measurement mixes elastic breakup with the events in which the other fragment is absorbed, excites the target, or is transferred. We separate the two in the Ichimura-Austern-Vincent model and its coupled-channel extensions, and use the separation to account for the suppression of complete fusion.</p>
+      <p class="l-zh"><sup>6</sup>Li、<sup>9</sup>Be、<sup>11</sup>Be 这类核打在靶上，可能只有一部分被俘获。实验测到的是其中一个碎片，这个测量把弹性破裂和另一个碎片被吸收、激发靶核或发生转移的事件混在一起。我们用 Ichimura-Austern-Vincent 模型及其耦合道推广把两者分开，再用这个分解去解释完全熔合为什么被压低。</p>
     </li>
 
     <li>
-      <span class="line-tag">Coupled channels &middot; absorption mechanism</span>
-      <h3 class="l-en">Following the absorbed flux</h3>
-      <h3 class="l-zh">追踪被吸收的流</h3>
-      <p class="l-en">Exact flux decompositions of the coupled-channel problem: how absorbed flux divides between fusion and peripheral loss, and how the Feshbach dynamic polarization potential can be constructed with the full continuum coupling, without weak-coupling or local-equivalent approximations.</p>
-      <p class="l-zh">对耦合道问题做严格的流分解：被吸收的流如何在熔合与外围损失之间划分，以及如何在保留全部连续态耦合的前提下构造 Feshbach 动力学极化势，不做弱耦合近似，也不做等效局域近似。</p>
+      <h3 class="l-en">Absorption in coupled channels</h3>
+      <h3 class="l-zh">耦合道中的吸收</h3>
+      <p class="l-en">A calculation with imaginary potentials tells you how much flux is lost, not what it was lost to. We derive exact decompositions: how the absorbed flux divides between fusion and peripheral loss, and how to construct the Feshbach dynamic polarization potential while keeping the full continuum coupling, with no weak-coupling and no local-equivalent approximation.</p>
+      <p class="l-zh">带虚部势的计算只告诉你损失了多少流，不告诉你损失到哪里去了。我们做严格的分解：被吸收的流如何在熔合与外围损失之间划分；以及在保留全部连续态耦合、不做弱耦合近似也不做等效局域近似的前提下，如何构造 Feshbach 动力学极化势。</p>
     </li>
 
     <li>
-      <span class="line-tag">Solvers &middot; emulators</span>
-      <h3 class="l-en">Making the calculation cheap enough to repeat</h3>
-      <h3 class="l-zh">把计算做到便宜到可以反复做</h3>
-      <p class="l-en">Bound-state techniques for scattering, complex scaling, Lagrange-mesh and R-matrix methods, GPU linear algebra, and reduced-basis emulators that replace an expensive coupled-channel solve with one that runs hundreds of times faster at controlled error. A calculation you can only afford once is not a calculation you can do statistics on.</p>
-      <p class="l-zh">用束缚态技术处理散射问题，复标度方法，Lagrange 网格与 R 矩阵方法，GPU 线性代数，以及在误差可控的前提下把一次昂贵的耦合道求解替换成快几百倍的降基代理。一个只跑得起一次的计算，是没法在上面做统计的。</p>
+      <h3 class="l-en">Solvers and emulators</h3>
+      <h3 class="l-zh">求解器与代理模型</h3>
+      <p class="l-en">Bound-state techniques for scattering, complex scaling, Lagrange-mesh and R-matrix methods, GPU linear algebra, and reduced-basis emulators. The last of these reproduces a full continuum-discretized coupled-channel calculation to better than 0.1 percent at roughly two hundred times the speed.</p>
+      <p class="l-zh">处理散射的束缚态技术、复标度、Lagrange 网格与 R 矩阵方法、GPU 线性代数，以及降基代理模型。最后这一项能把完整的连续离散化耦合道计算复现到 0.1% 以内，速度快约两百倍。</p>
     </li>
 
     <li>
-      <span class="line-tag">Uncertainty quantification</span>
-      <h3 class="l-en">What a measurement actually determines</h3>
-      <h3 class="l-zh">一次测量究竟定住了什么</h3>
-      <p class="l-en">Bayesian calibration of reaction models with exact likelihood gradients, and information-geometry diagnostics that count how many independent parameter directions a given data set can constrain. Often the answer is far fewer than the number of parameters being fitted, and that is worth knowing before quoting an error bar.</p>
-      <p class="l-zh">用精确的似然梯度对反应模型做贝叶斯标定，并用信息几何的诊断去数一组数据究竟能约束多少个独立的参数方向。答案常常远少于被拟合的参数个数，而这件事应该在给出误差棒之前就搞清楚。</p>
+      <h3 class="l-en">Uncertainty quantification</h3>
+      <h3 class="l-zh">不确定度量化</h3>
+      <p class="l-en">Optical potentials carry a dozen or more fitted parameters and the fits are ambiguous. We measure the ambiguity rather than assume it: Bayesian calibration with exact likelihood gradients, and Fisher-information geometry to count how many independent parameter directions a given data set constrains. The count is usually much smaller than the number of parameters being varied.</p>
+      <p class="l-zh">光学势带着十几个拟合参数，而这种拟合的多解性是出了名的。我们不把它当作口口相传的经验，而是去度量它：用精确的似然梯度做贝叶斯标定，用 Fisher 信息几何去数一组数据究竟能约束几个独立的参数方向。这个数目通常远小于被变动的参数个数。</p>
     </li>
 
     <li>
-      <span class="line-tag">Machine learning, where it earns its place</span>
-      <h3 class="l-en">Differentiability as the argument</h3>
-      <h3 class="l-zh">可微性才是理由</h3>
-      <p class="l-en">Physics-informed networks carrying correct scattering boundary conditions, differentiable surrogates for optical model wave functions, and network architectures that a symbolic regression can read back. We use these when differentiability or speed buys something a conventional solver cannot give, not because the method is fashionable.</p>
-      <p class="l-zh">带正确散射边界条件的物理信息神经网络，光学模型波函数的可微代理，以及能被符号回归重新读出来的网络结构。我们用这些方法，是因为可微性或速度能换来传统求解器给不了的东西，不是因为它时髦。</p>
+      <h3 class="l-en">Machine learning</h3>
+      <h3 class="l-zh">机器学习</h3>
+      <p class="l-en">Networks enter for one of two reasons, differentiability or speed. Physics-informed networks solve the scattering problem once an exterior complex scaling boundary makes the asymptotic oscillation tractable. A bidirectional recurrent surrogate maps a global optical potential onto nucleon-nucleus scattering wave functions over 1 to 200 MeV, twelve target nuclei and partial waves up to l = 30, differentiable end to end.</p>
+      <p class="l-zh">用网络只有两个理由：可微，或者快。物理信息神经网络可以求解散射问题，前提是用外部复标度把渐近区的振荡变得可处理。双向循环代理模型把全局光学势映射到核子核散射波函数，覆盖 1 到 200 MeV、十二个靶核、l 直到 30，端到端可微。</p>
     </li>
 
   </ul>
