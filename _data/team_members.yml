@@ -6,8 +6,8 @@
     bound nuclei: inclusive breakup and incomplete fusion, absorption mechanisms in coupled-channel
     theory, scattering solvers and emulators, and uncertainty quantification for optical potentials.
   info_zh: >
-    同济大学物理科学与工程学院教授。研究弱束缚核诱发的反应：非弹性破裂与不完全熔合、耦合道理论中的吸收机制、
-    散射求解器与代理模型，以及光学势的不确定度量化。
+    同济大学物理科学与工程学院教授。研究束缚很松、碰撞时容易散开的原子核：碎片怎样被吸收，如何计算只俘获部分入射核的
+    不完全熔合，以及怎样改进散射程序并判断实验数据真正约束了哪些光学势参数。
   email: jinl@tongji.edu.cn
   number_educ: 3
   education1: 2013.10-2016.07 &nbsp; PhD with Antonio M. Moro, University of Seville

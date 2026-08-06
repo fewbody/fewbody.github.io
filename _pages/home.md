@@ -19,7 +19,7 @@ permalink: /
       <h1 class="l-zh">宇宙学解释宇宙如何开始，<br><span class="turn">我们解释宇宙为什么不是空的。</span></h1>
 
       <p class="hero-lead l-en">The Big Bang produced hydrogen, helium and almost nothing else. Every heavier nucleus, in a rock, in the ocean, in your body, was assembled by a nuclear reaction inside a star, a supernova or a neutron star merger. We build the theory that says how those reactions proceed, and it is not yet as accurate as the observations demand.</p>
-      <p class="hero-lead l-zh">大爆炸只造出了氢和氦，几乎没有别的。岩石里、海水里、你身体里的每一个更重的原子核，都是某颗恒星、某次超新星爆发或中子星并合中的一次核反应做出来的。我们做的是描述这些反应如何进行的理论，而它目前的精度还赶不上观测的要求。</p>
+      <p class="hero-lead l-zh">大爆炸主要造出了氢和氦，其他元素极少。你身上更重的原子核，来自恒星、超新星或者中子星并合中的核反应。这些反应有多快、走哪条路，得靠理论算。我们算的就是这个，而且现在还算不够准。</p>
 
       <div class="hero-actions">
         <a class="btn-solid" href="{{ site.url }}{{ site.baseurl }}/research"><span class="l-en">What we work on</span><span class="l-zh">我们在做什么</span></a>
@@ -269,8 +269,8 @@ permalink: /
           Schematic.
         </span>
         <span class="l-zh">
-          <span style="color:#1c5f80">&#9632;</span> 已经被观测到的核素<br>
-          <span style="color:#9cc7b2">&#9632;</span> 理论预言束缚、但从未被造出来的核素<br>
+          <span style="color:#1c5f80">&#9632;</span> 实验已经确认的核素<br>
+          <span style="color:#9cc7b2">&#9632;</span> 理论认为能存在、但还没人造出来的核素<br>
           示意图。
         </span>
       </figcaption>
@@ -285,10 +285,10 @@ permalink: /
 
     <p class="section-kicker"><span class="l-en">Why this field</span><span class="l-zh">为什么是这个领域</span></p>
     <h2 class="l-en">Four reasons the nucleus is worth a career</h2>
-    <h2 class="l-zh">原子核值得投入一段职业生涯的四个理由</h2>
+    <h2 class="l-zh">为什么值得把时间花在原子核上</h2>
 
     <p class="lede l-en">Cosmology wins on distance and on the age of the world, and we are not going to compete with it there. Nuclear physics has a different case to make, and it is a stronger one than the field usually bothers to state.</p>
-    <p class="lede l-zh">宇宙学在距离和时间尺度上无可匹敌，我们不在那条赛道上和它比。核物理要讲的是另一套理由，而且这套理由比这个领域通常愿意说出来的要有力得多。</p>
+    <p class="lede l-zh">和宇宙学比距离、比时间跨度，核物理当然占不到便宜。原子核值得研究，理由在它自身。</p>
 
     <div class="argument-grid">
 
@@ -297,52 +297,52 @@ permalink: /
         <h3 class="l-en">Complexity starts here</h3>
         <h3 class="l-zh">复杂性从这里开始</h3>
         <p class="l-en">A universe of hydrogen and helium has no chemistry, no rock, no biology. Everything that makes the universe interesting was manufactured at nuclear energy scales, and much of it is still being manufactured now, in objects we can observe but cannot reproduce. Cosmology builds the stage. Nuclear physics explains why anything is standing on it.</p>
-        <p class="l-zh">一个只有氢和氦的宇宙没有化学，没有岩石，没有生物。让宇宙变得有内容的一切，都是在核物理的能标上造出来的，而且今天仍然在造，发生在我们看得见却复制不了的天体里。宇宙学负责搭舞台，核物理回答舞台上为什么有东西。</p>
+        <p class="l-zh">如果宇宙里只有氢和氦，化学会单调得多，也没有构成岩石和生命所需的碳、氧、硅、铁。恒星、超新星和中子星并合中的核反应造出了这些重元素，其中有些过程搬不进实验室。我们算的是这些反应走哪条路径、以多快的速度发生。宇宙学讲舞台是怎么搭起来的，核物理回答舞台上为什么会有东西。</p>
       </div>
 
       <div class="argument">
         <span class="num">02</span>
         <h3 class="l-en">The hardest square on the map</h3>
-        <h3 class="l-zh">物理版图上最难的一格</h3>
+        <h3 class="l-zh">物理最难的那一格</h3>
         <p class="l-en">Physics succeeds at the two ends. One end is one body and perturbation theory: atoms, QED, particle scattering, ten significant figures. The other end is the thermodynamic limit, where the law of large numbers takes over. The nucleus sits in between: tens to hundreds of strongly interacting particles, no small parameter, no large number, and an open system that can come apart while you look at it. That middle square is the shape of almost every hard problem left in science, and the nucleus is its model organism.</p>
-        <p class="l-zh">物理学在两端都很成功。一端是单体和微扰：原子、QED、粒子散射，能算到十位有效数字。另一端是热力学极限，大数定律接管一切。原子核在中间：几十到几百个强相互作用的粒子，没有小参数可展开，也没有大数可平均，而且是一个会在你观测它的时候解体的开放系统。这一格恰好是当代科学中几乎所有难题的形状，而原子核是这类问题的模式生物。</p>
+        <p class="l-zh">对相互作用较弱的少体系统，微扰展开很有效，原子和 QED 的结果能算到十位有效数字。粒子足够多时，又可以依靠统计平均和热力学。原子核正好卡在中间：几十到几百个粒子强烈作用，既没有明显的小量可供展开，也没有足够大的数目可供平均；碰撞中的原子核还会破裂，是一个会向外流失粒子的开放系统。它是研究这类有限强耦合多体问题的好对象，实验数据已经积累了六十年，也有多种算法可以互相核对。</p>
       </div>
 
       <div class="argument">
         <span class="num">03</span>
         <h3 class="l-en">The last object with a shape</h3>
-        <h3 class="l-zh">最后一个有形状的东西</h3>
+        <h3 class="l-zh">极小尺度上的集体形状</h3>
         <p class="l-en">Look outward and cosmology runs to 10<sup>26</sup> m. Look inward and the sequence stops at 10<sup>&minus;15</sup> m, because below the nucleus quarks are confined and the notion of structure dissolves. The nucleus is therefore the last object one can still ask to have a shape, a rotation, a vibration. A few dozen particles manage to behave as a Fermi liquid, a superfluid, a rotating rigid body and a quantum chaotic system, sometimes within one isotope chain.</p>
-        <p class="l-zh">向外看，宇宙学一直看到 10<sup>26</sup> 米。向内看，序列在 10<sup>&minus;15</sup> 米停住，因为再往下夸克被禁闭，结构这个概念本身解体。所以原子核是最后一个还可以追问它有没有形状、怎么转动、怎么振动的对象。几十个粒子就能同时表现为费米液体、超流体、转动刚体和量子混沌，有时就发生在同一条同位素链上。</p>
+        <p class="l-zh">往外看，宇宙学能看到 10<sup>26</sup> 米。往里到 10<sup>&minus;15</sup> 米，就进入了原子核的尺度。我们仍能把整个原子核的形变、转动和振动当作可测量对象；再往下研究夸克和胶子时，自由度和描述方式都变了，不能直接照搬这套形状语言。几十个核子组成的系统可以像液体、超流体或转动的刚体，也会出现量子混沌，有时这些现象就在同一条同位素链上依次出现。</p>
       </div>
 
       <div class="argument">
         <span class="num">04</span>
         <h3 class="l-en">It is unfinished, and it says so</h3>
-        <h3 class="l-zh">它没做完，而且它承认</h3>
+        <h3 class="l-zh">这门学科还没做完</h3>
         <p class="l-en">No theory predicts all nuclei quantitatively. Roughly half the nuclei that models say should be bound have never been made. Nobody knows how heavy an element can get, what the interior of a neutron star is made of, or where most of the heavy elements were actually produced. A field in that state has room in it. That is the honest reason to work here rather than on a subject that was finished thirty years ago.</p>
-        <p class="l-zh">没有一个理论能定量预言所有的核。模型认为应该束缚的核，大约有一半人类从没造出来过。没有人知道元素最重能重到哪里，不知道中子星内部是什么，也不知道大部分重元素究竟在哪里合成。一个处在这种状态的领域里有位置。这是选择留在这里、而不是去做一个三十年前就已经完工的题目的诚实理由。</p>
+        <p class="l-zh">没有一套理论能把所有原子核都算准。模型认为应该能存在的核，大概有一半人类还没造出来过。元素最重能到哪里，中子星内部由什么组成，宇宙里大部分重元素究竟在哪里合成，这些基本问题都没有定论。新测量经常会迫使理论重算。</p>
       </div>
 
     </div>
 
     <div class="pull">
       <p class="l-en">And it is the one branch of physics whose results went directly into the political history of the twentieth century, and whose next chapter is being written in energy. Work done here has consequences.</p>
-      <p class="l-zh">另外，这是唯一一个结论直接进入二十世纪政治史的物理分支，而它的下一章正写在能源上。在这里做的事情是有后果的。</p>
+      <p class="l-zh">核物理的成果直接影响过二十世纪的政治史，如今又进入能源、医学和安全问题。做这类研究时，技术判断和社会后果离得很近。</p>
     </div>
 
     <div class="fact-row">
       <div class="fact">
         <strong>~3,000</strong>
-        <span class="l-en">nuclides observed so far</span><span class="l-zh">迄今观测到的核素</span>
+        <span class="l-en">nuclides observed so far</span><span class="l-zh">实验中已经观测到的核素</span>
       </div>
       <div class="fact">
         <strong>~7,000</strong>
-        <span class="l-en">predicted to be bound</span><span class="l-zh">理论预言束缚的核素</span>
+        <span class="l-en">predicted to be bound</span><span class="l-zh">理论预言能够束缚的核素</span>
       </div>
       <div class="fact">
         <strong>10<sup>&minus;15</sup> m</strong>
-        <span class="l-en">where structure stops</span><span class="l-zh">结构概念的下界</span>
+        <span class="l-en">where structure stops</span><span class="l-zh">原子核的典型尺度</span>
       </div>
     </div>
 
@@ -354,46 +354,46 @@ permalink: /
 
   <p class="section-kicker"><span class="l-en">What we work on</span><span class="l-zh">我们做什么</span></p>
   <h2 class="l-en">Reaction theory for weakly bound nuclei</h2>
-  <h2 class="l-zh">弱束缚核的反应理论</h2>
+  <h2 class="l-zh">碰撞时会散开的原子核</h2>
 
   <p class="lede l-en">We compute what happens when two nuclei collide. The projectiles we care about most are bound so weakly that they come apart during the collision, so the continuum has to be in the calculation from the start rather than added afterwards as a correction.</p>
-  <p class="lede l-zh">我们算的是两个原子核撞在一起会发生什么。最关心的入射核束缚得极弱，碰撞过程中就会散开，所以连续态必须从一开始就在计算里，而不是事后当作修正项加上去。</p>
+  <p class="lede l-zh">我们计算两个原子核碰撞后会发生什么，尤其关心束缚得很松的入射核。比如 <sup>6</sup>Li，可以近似看成一个 α 粒子和一个氘核松散地结合在一起，碰撞时很容易分开。分开后的碎片可能一个被靶核吸收，另一个继续飞走。物理上允许这些碎片逃逸的状态叫连续态，计算必须从一开始就把它们包括进去。</p>
 
   <ul class="line-list">
 
     <li>
       <h3 class="l-en">Inclusive breakup and incomplete fusion</h3>
-      <h3 class="l-zh">非弹性破裂与不完全熔合</h3>
+      <h3 class="l-zh">破裂后，另一块碎片去了哪里</h3>
       <p class="l-en">When a weakly bound projectile such as <sup>6</sup>Li, <sup>9</sup>Be or <sup>11</sup>Be hits a target, only part of it may be captured. What gets measured is one fragment, and that measurement mixes elastic breakup with the events in which the other fragment is absorbed, excites the target, or is transferred. We separate the two in the Ichimura-Austern-Vincent model and its coupled-channel extensions, and use the separation to account for the suppression of complete fusion.</p>
-      <p class="l-zh"><sup>6</sup>Li、<sup>9</sup>Be、<sup>11</sup>Be 这类核打在靶上，可能只有一部分被俘获。实验测到的是其中一个碎片，这个测量把弹性破裂和另一个碎片被吸收、激发靶核或发生转移的事件混在一起。我们用 Ichimura-Austern-Vincent 模型及其耦合道推广把两者分开，再用这个分解去解释完全熔合为什么被压低。</p>
+      <p class="l-zh"><sup>6</sup>Li 打在靶上，探测器常常只看到飞出来的那个 α 粒子。这个 α 有两个来源：<sup>6</sup>Li 散成 α 和氘核后，两个碎片都飞走；或者氘核被靶吸收，只剩 α 出来。后一类过程叫非弹性破裂，其中包括只吸收一部分入射核的不完全熔合。实验测到的截面把两类过程混在一起，我们用 Ichimura-Austern-Vincent 模型从理论上拆分它们，再研究弱束缚核的完全熔合截面为什么低于预期。</p>
     </li>
 
     <li>
       <h3 class="l-en">Absorption in coupled channels</h3>
-      <h3 class="l-zh">耦合道中的吸收</h3>
+      <h3 class="l-zh">被吸收的粒子去哪了</h3>
       <p class="l-en">A calculation with imaginary potentials tells you how much flux is lost, not what it was lost to. We derive exact decompositions: how the absorbed flux divides between fusion and peripheral loss, and how to construct the Feshbach dynamic polarization potential while keeping the full continuum coupling, with no weak-coupling and no local-equivalent approximation.</p>
-      <p class="l-zh">带虚部势的计算只告诉你损失了多少流，不告诉你损失到哪里去了。我们做严格的分解：被吸收的流如何在熔合与外围损失之间划分；以及在保留全部连续态耦合、不做弱耦合近似也不做等效局域近似的前提下，如何构造 Feshbach 动力学极化势。</p>
+      <p class="l-zh">反应计算常用带虚部的势记录有多少粒子没有以原样散射出去。这个记账办法只给出总损失，分不清粒子是真的进入靶核形成熔合，还是在靶核外围转入其他反应。我们推导严格的分解公式，还把破裂通道对弹性散射的影响压缩成一个等效势，并保留通道之间的全部耦合。</p>
     </li>
 
     <li>
       <h3 class="l-en">Solvers and emulators</h3>
-      <h3 class="l-zh">求解器与代理模型</h3>
+      <h3 class="l-zh">把计算做快</h3>
       <p class="l-en">Bound-state techniques for scattering, complex scaling, Lagrange-mesh and R-matrix methods, GPU linear algebra, and reduced-basis emulators. The last of these reproduces a full continuum-discretized coupled-channel calculation to better than 0.1 percent at roughly two hundred times the speed.</p>
-      <p class="l-zh">处理散射的束缚态技术、复标度、Lagrange 网格与 R 矩阵方法、GPU 线性代数，以及降基代理模型。最后这一项能把完整的连续离散化耦合道计算复现到 0.1% 以内，速度快约两百倍。</p>
+      <p class="l-zh">上面这些计算一次常要几个小时。我们改进底层数值方法：用有限区域里的边界匹配处理散射，用复标度把远处不断振荡的波函数变成衰减函数，用 R 矩阵连接核内区和外区，再把最费时的线性代数搬到 GPU。降基代理则从几百个完整解里提取少数主要形状，用它们快速近似新的解。它能把完整计算复现到 0.1% 以内，速度快两百倍左右。</p>
     </li>
 
     <li>
       <h3 class="l-en">Uncertainty quantification</h3>
-      <h3 class="l-zh">不确定度量化</h3>
+      <h3 class="l-zh">数据到底定住了什么</h3>
       <p class="l-en">Optical potentials carry a dozen or more fitted parameters and the fits are ambiguous. We measure the ambiguity rather than assume it: Bayesian calibration with exact likelihood gradients, and Fisher-information geometry to count how many independent parameter directions a given data set constrains. The count is usually much smaller than the number of parameters being varied.</p>
-      <p class="l-zh">光学势带着十几个拟合参数，而这种拟合的多解性是出了名的。我们不把它当作口口相传的经验，而是去度量它：用精确的似然梯度做贝叶斯标定，用 Fisher 信息几何去数一组数据究竟能约束几个独立的参数方向。这个数目通常远小于被变动的参数个数。</p>
+      <p class="l-zh">光学势有十几个拟合参数，不同的参数组合却能给出几乎一样的角分布。贝叶斯方法保留所有与数据相容的参数及其概率，不只报一组最优值。Fisher 信息几何再检查哪些参数只能一起变化、无法被数据分别识别，从而数出数据真正约束了几个独立方向。答案常常是两三个，而拟合里有十三个参数。</p>
     </li>
 
     <li>
       <h3 class="l-en">Machine learning</h3>
       <h3 class="l-zh">机器学习</h3>
       <p class="l-en">Networks enter for one of two reasons, differentiability or speed. Physics-informed networks solve the scattering problem once an exterior complex scaling boundary makes the asymptotic oscillation tractable. A bidirectional recurrent surrogate maps a global optical potential onto nucleon-nucleus scattering wave functions over 1 to 200 MeV, twelve target nuclei and partial waves up to l = 30, differentiable end to end.</p>
-      <p class="l-zh">用网络只有两个理由：可微，或者快。物理信息神经网络可以求解散射问题，前提是用外部复标度把渐近区的振荡变得可处理。双向循环代理模型把全局光学势映射到核子核散射波函数，覆盖 1 到 200 MeV、十二个靶核、l 直到 30，端到端可微。</p>
+      <p class="l-zh">我们只在神经网络能省计算时间或方便求导时使用它。物理信息神经网络直接用散射方程约束训练，但远处持续振荡的波函数很难学习；外部复标度把这段振荡转成衰减，同时保留实轴上的光学势。另一套网络学习光学势到波函数的映射，覆盖 1 到 200 MeV、十二个靶核，并能直接计算结果对输入参数的导数。</p>
     </li>
 
   </ul>
@@ -408,34 +408,34 @@ permalink: /
 
     <p class="section-kicker"><span class="l-en">Software</span><span class="l-zh">软件</span></p>
     <h2 class="l-en">We write the codes and we give them away</h2>
-    <h2 class="l-zh">代码是我们自己写的，写完就公开</h2>
+    <h2 class="l-zh">多数代码随论文公开</h2>
 
     <p class="lede l-en">Almost every result on this site came out of a solver written in the group. Most of them are on GitHub with the paper that documents them. A student who spends a few years here leaves with a code that runs, which is a more durable asset than a list of publications.</p>
-    <p class="lede l-zh">这个网站上几乎每一个结果，都出自组里自己写的求解器。它们大多和记录它们的论文一起挂在 GitHub 上。在这里待几年的学生，走的时候会带走一套跑得起来的代码，这比一份论文清单更耐用。</p>
+    <p class="lede l-zh">网站上几乎每个结果都来自组里自己写的程序，大部分随论文放到 GitHub。学生会从运行现有代码开始，逐步负责其中一个能独立检验、也能交给别人使用的部分。</p>
 
     <div class="code-grid">
       <div class="code-card">
         <h4>SLAM.jl</h4>
         <p class="l-en">General Julia scattering solver, Lagrange-Legendre basis with direct boundary matching, built to be emulated.</p>
-        <p class="l-zh">通用的 Julia 散射求解器，Lagrange-Legendre 基加直接边界匹配，从一开始就为代理模型设计。</p>
+        <p class="l-zh">Julia 写的散射求解器，把无限远处的散射边界转成有限位置的直接匹配问题，也方便后续建立快速代理模型。</p>
         <p class="links"><a href="https://github.com/jinleiphys/SLAM.jl">GitHub</a></p>
       </div>
       <div class="code-card">
         <h4>COLOSS</h4>
         <p class="l-en">Complex-scaled optical and Coulomb scattering solver, local and Perey-Buck nonlocal potentials.</p>
-        <p class="l-zh">复标度光学势与库仑散射求解器，支持局域势和 Perey-Buck 非局域势。</p>
+        <p class="l-zh">用复标度把振荡的散射波变成可积的衰减函数，再求解光学势和库仑散射；局域势和非局域势都能算。</p>
         <p class="links"><a href="https://github.com/jinleiphys/COLOSS">GitHub</a> <a href="https://doi.org/10.1016/j.cpc.2025.109568">Paper</a></p>
       </div>
       <div class="code-card">
         <h4>PINN-ECS</h4>
         <p class="l-en">Physics-informed neural network scattering solver with an exterior complex scaling boundary.</p>
-        <p class="l-zh">带外部复标度边界的物理信息神经网络散射求解器。</p>
+        <p class="l-zh">用散射方程约束神经网络训练，并靠外部复标度压下远处难以学习的振荡。</p>
         <p class="links"><a href="https://github.com/jinleiphys/PINN-ECS">GitHub</a> <a href="https://doi.org/10.1103/sjz4-pq6p">Paper</a></p>
       </div>
       <div class="code-card">
         <h4>smoothie</h4>
         <p class="l-en">Production Fortran code for inclusive nonelastic breakup, DWBA and CDCC wave functions.</p>
-        <p class="l-zh">用于非弹性破裂的生产级 Fortran 代码，支持 DWBA 和 CDCC 波函数。</p>
+        <p class="l-zh">Fortran 写的非弹性破裂主程序，用来计算只探测一个碎片、另一个碎片被吸收或转移的反应。</p>
         <p class="links"><a href="https://github.com/jinleiphys/smoothie">GitHub</a></p>
       </div>
     </div>
@@ -493,10 +493,10 @@ permalink: /
     <h2 class="l-zh">本科生：带一台笔记本和一个下午过来</h2>
 
     <p class="l-en">A first project here does not start with review articles. It starts with a real calculation: take a global optical potential, compute the elastic angular distribution for a real system, pull the measured points from the database and put them on the same plot. Two hours in, the diffraction minima either line up or they do not, and you have found out something about the world by computing it yourself. Very few fields can hand a second-year student that experience.</p>
-    <p class="l-zh">在这里，第一个课题不是从读综述开始的，是从一个真实的计算开始：拿一个全局光学势，算出某个真实体系的弹性散射角分布，再从数据库里把实验点调出来画在同一张图上。两个小时之后，衍射极小要么对上了，要么没对上，而你是靠自己算出来的方式知道了关于这个世界的一件事。能让大二学生得到这种体验的领域不多。</p>
+    <p class="l-zh">第一个课题会直接上手真实计算，不用先读三个月综述。你可以拿一个现成的光学势，计算某个核打在某个靶上的弹性散射角分布，再从数据库取出几十年前的实验点，画在同一张图上。一个下午之后，衍射极小可能对得上，也可能对不上。接下来就查单位、势参数和数值收敛，看看差别来自哪里。这些检查，大二学生已经能做。</p>
 
     <p class="l-en">Master’s and doctoral students are recruited every year. What we need is quantum mechanics at the level of a solid undergraduate course and a willingness to program; Fortran, Python and Julia are taught inside the group. What we do not need is prior nuclear physics.</p>
-    <p class="l-zh">硕士和博士每年都招。需要的是扎实的本科量子力学，以及愿意写程序；Fortran、Python 和 Julia 都在组内教。不需要的是核物理的先修背景。</p>
+    <p class="l-zh">硕士和博士每年都招。学过本科量子力学、愿意写程序就可以联系，不要求已有核物理基础。Fortran、Python、Julia 可以进组后学。</p>
 
     <p><a class="btn-solid" href="{{ site.url }}{{ site.baseurl }}/opening"><span class="l-en">Positions and how to apply</span><span class="l-zh">招生信息与申请方式</span></a></p>
 

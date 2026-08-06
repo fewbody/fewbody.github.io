@@ -9,8 +9,8 @@
     Phys. Rev. C 113, 054601; Phys. Rev. C 114, 014623; Phys. Lett. B 877, 140479 and
     Phys. Lett. B 880, 140716.
   info_zh: >
-    博士生。研究耦合道反应中的吸收机制：吸收截面的严格流分解、保留全部连续态耦合的 Feshbach 动力学极化势，
-    以及耦合道格林函数的构造与唯一性。以第一作者发表 Phys. Rev. C 108, 014617；Phys. Rev. C 111, 024316；
+    博士生。研究耦合道反应，把弹性、激发和破裂等状态联立起来，追踪被吸收的粒子去了哪里；还研究怎样在保留全部连续态耦合时
+    构造弹性散射看到的等效势。以第一作者发表 Phys. Rev. C 108, 014617；Phys. Rev. C 111, 024316；
     Phys. Rev. C 113, 054601；Phys. Rev. C 114, 014623；Phys. Lett. B 877, 140479 和
     Phys. Lett. B 880, 140716。
   email: 1853071@tongji.edu.cn
@@ -26,7 +26,7 @@
     024606 and Phys. Lett. B 858, 139070, and the principal developer of the COLOSS solver released
     in Comput. Phys. Commun. 311, 109568.
   info_zh: >
-    博士生。研究散射问题的复标度方法，以及弱束缚核诱发反应中表面近似的适用性。以第一作者发表
+    博士生。研究散射问题的复标度方法，把远处振荡的波函数转成便于计算的衰减函数；也检验弱束缚核反应是否真的只发生在核表面附近。以第一作者发表
     Phys. Rev. C 108, 024606 和 Phys. Lett. B 858, 139070，并且是 Comput. Phys. Commun. 311, 109568
     所发布的 COLOSS 求解器的主要开发者。
   email: junzliu@126.com
@@ -41,7 +41,7 @@
     alpha decay and moving toward multi-fragment emission in the same continuum framework used for
     breakup.
   info_zh: >
-    博士生。研究把量子少体方法用于核衰变，从两体的 alpha 衰变出发，逐步走向在与破裂相同的连续态框架内处理多碎片发射。
+    博士生。把衰变产物按少数粒子或团簇处理，用量子少体方法研究核衰变。先计算两体的 alpha 衰变，再处理多碎片发射；粒子逃逸由破裂反应中同一套连续态框架描述。
   email: 2211389@tongji.edu.cn
   number_educ: 0
   education1:

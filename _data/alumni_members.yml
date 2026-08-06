@@ -8,8 +8,8 @@
     nucleon-nucleus potential, tested across target masses 24 to 209 and 5 to 55 MeV per nucleon.
     Lead author on Phys. Rev. C 108, 024612.
   info_zh: >
-    以 KD02 全局核子核光学势为输入，构建了 6Li 和 7Li 的系统单折叠光学势，并在靶质量 24 至 209、
-    每核子 5 至 55 MeV 的范围内做了检验。以第一作者发表 Phys. Rev. C 108, 024612。
+    以描述单个核子和靶核平均相互作用的 KD02 全局光学势为输入，构造 6Li 和 7Li 的系统单折叠光学势，并在靶质量 24 到 209、
+    每核子 5 到 55 MeV 的范围内检验。以第一作者发表 Phys. Rev. C 108, 024612。
   email: 2130949@tongji.edu.cn
   number_educ: 0
   education1:

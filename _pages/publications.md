@@ -11,7 +11,7 @@ permalink: /publications/
 <h1><span class="l-en">Publications</span><span class="l-zh">论文</span></h1>
 
 <p class="lede l-en">Work done since the group was established at Tongji University, most recent first. Links resolve through DOI. Group members are in bold.</p>
-<p class="lede l-zh">课题组在同济大学建立以来的工作，按时间倒序排列，链接通过 DOI 解析。组内成员姓名加粗。</p>
+<p class="lede l-zh">这里列出课题组在同济以来发表的论文，按时间倒序排列。点击 DOI 可打开原文，组内成员姓名用粗体标出。</p>
 
 <!-- generated from INSPIRE-HEP author record Lei.Jin.2, Tongji era only -->
 
