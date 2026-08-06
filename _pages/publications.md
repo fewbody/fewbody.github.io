@@ -1,7 +1,7 @@
 ---
 title: "Publications - QFBD Research Group"
 layout: gridlay
-excerpt: "Publication list of the Quantum Few-Body Dynamics Group, Tongji University."
+excerpt: "Publications of the Quantum Few-Body Dynamics Group, Tongji University."
 sitemap: false
 permalink: /publications/
 ---
@@ -10,10 +10,10 @@ permalink: /publications/
 
 <h1><span class="l-en">Publications</span><span class="l-zh">论文</span></h1>
 
-<p class="lede l-en">Peer-reviewed articles, most recent first. Links resolve through DOI. Names of group members are in bold.</p>
-<p class="lede l-zh">同行评议论文，按时间倒序排列，链接通过 DOI 解析。组内成员姓名加粗。</p>
+<p class="lede l-en">Work done since the group was established at Tongji University, most recent first. Links resolve through DOI. Group members are in bold.</p>
+<p class="lede l-zh">课题组在同济大学建立以来的工作，按时间倒序排列，链接通过 DOI 解析。组内成员姓名加粗。</p>
 
-<!-- generated from INSPIRE-HEP author record Lei.Jin.2 -->
+<!-- generated from INSPIRE-HEP author record Lei.Jin.2, Tongji era only -->
 
 <h3>2026</h3>
 <ul class="pub-list">
@@ -76,6 +76,10 @@ permalink: /publications/
   <li>Kolmogorov-Arnold networks in nuclear binding energy prediction<br>
     <span class="pub-authors">Hao Liu, <strong>Jin Lei</strong>, Zhongzhou Ren</span>
     <span class="pub-venue"><a href="https://doi.org/10.1103/PhysRevC.111.024316">Phys. Rev. C 111, 024316 (2025)</a></span>
+  </li>
+  <li>Paths to superheavy nuclei<br>
+    <span class="pub-authors">K. Godbey et al. (incl. <strong>Jin Lei</strong>)</span>
+    <span class="pub-venue"><a href="https://doi.org/10.1088/1361-6471/ae198f">J. Phys. G 52, 120501 (2025)</a></span>
   </li>
 </ul>
 
@@ -152,152 +156,6 @@ permalink: /publications/
   <li>The Hussein-McVoy formula for inclusive breakup revisited: a tribute to Mahir Hussein<br>
     <span class="pub-authors">M. Gómez-Ramos, J. Gómez-Camacho, <strong>Jin Lei</strong>, A.M. Moro</span>
     <span class="pub-venue"><a href="https://doi.org/10.1140/epja/s10050-021-00376-0">Eur. Phys. J. A 57, 57 (2021)</a></span>
-  </li>
-</ul>
-
-<h3>2020</h3>
-<ul class="pub-list">
-  <li>Scattering of the halo nucleus 11Be from a lead target at 3.5 times the Coulomb barrier energy<br>
-    <span class="pub-authors">F.F. Duan et al. (incl. <strong>Jin Lei</strong>)</span>
-    <span class="pub-venue"><a href="https://doi.org/10.1016/j.physletb.2020.135942">Phys. Lett. B 811, 135942 (2020)</a></span>
-  </li>
-  <li>Lagrange-mesh $R$-matrix method for inhomogeneous equations<br>
-    <span class="pub-authors"><strong>Jin Lei</strong>, Pierre Descouvemont</span>
-    <span class="pub-venue"><a href="https://doi.org/10.1103/PhysRevC.102.014608">Phys. Rev. C 102, 014608 (2020)</a></span>
-  </li>
-</ul>
-
-<h3>2019</h3>
-<ul class="pub-list">
-  <li>Insights into the dynamics of breakup of the halo nucleus 11 Be on a 64 Zn target<br>
-    <span class="pub-authors">A. Di Pietro, A.M. Moro, <strong>Jin Lei</strong>, R. de Diego</span>
-    <span class="pub-venue"><a href="https://doi.org/10.1016/j.physletb.2019.134954">Phys. Lett. B 798, 134954 (2019)</a></span>
-  </li>
-  <li>Is the unusual near-threshold potential behavior in elastic scattering of weakly bound nuclei a precision error?<br>
-    <span class="pub-authors">Rodrigo Navarro Pérez, <strong>Jin Lei</strong></span>
-    <span class="pub-venue"><a href="https://doi.org/10.1016/j.physletb.2019.06.005">Phys. Lett. B 795, 200 (2019)</a></span>
-  </li>
-  <li>Unraveling the reaction mechanisms leading to partial fusion of weakly bound nuclei<br>
-    <span class="pub-authors"><strong>Jin Lei</strong>, Antonio M. Moro</span>
-    <span class="pub-venue"><a href="https://doi.org/10.1103/PhysRevLett.123.232501">Phys. Rev. Lett. 123, 232501 (2019)</a></span>
-  </li>
-  <li>Puzzle of Complete Fusion Suppression in Weakly Bound Nuclei: A Trojan Horse Effect?<br>
-    <span class="pub-authors"><strong>Jin Lei</strong>, Antonio M. Moro</span>
-    <span class="pub-venue"><a href="https://doi.org/10.1103/PhysRevLett.122.042503">Phys. Rev. Lett. 122, 042503 (2019)</a></span>
-  </li>
-  <li>Deuteron- α scattering: Separable versus nonseparable Faddeev approach<br>
-    <span class="pub-authors">L. Hlophe, <strong>Jin Lei</strong>, Ch. Elster, A. Nogga, F.M. Nunes, D. Jurčiukonis, A. Deltuva</span>
-    <span class="pub-venue"><a href="https://doi.org/10.1103/PhysRevC.100.034609">Phys. Rev. C 100, 034609 (2019)</a></span>
-  </li>
-  <li>Breakup mechanisms in the 6He + 64Zn reaction at near-barrier energies<br>
-    <span class="pub-authors">J.P. Fernández-García et al. (incl. <strong>Jin Lei</strong>)</span>
-    <span class="pub-venue"><a href="https://doi.org/10.1103/PhysRevC.99.054605">Phys. Rev. C 99, 054605 (2019)</a></span>
-  </li>
-</ul>
-
-<h3>2018</h3>
-<ul class="pub-list">
-  <li>Few-body universality in the deuteron-alpha system<br>
-    <span class="pub-authors"><strong>Jin Lei</strong>, L. Hlophe, Ch. Elster, A. Nogga, F.M. Nunes, D.R. Phillips</span>
-    <span class="pub-venue"><a href="https://doi.org/10.1103/PhysRevC.98.051001">Phys. Rev. C 98, 051001 (2018)</a></span>
-  </li>
-  <li>Inclusive breakup calculations in angular momentum basis: application to 7Li + 58Ni<br>
-    <span class="pub-authors"><strong>Jin Lei</strong></span>
-    <span class="pub-venue"><a href="https://doi.org/10.1103/PhysRevC.97.034628">Phys. Rev. C 97, 034628 (2018)</a></span>
-  </li>
-  <li>Post-prior equivalence for transfer reactions with complex potentials<br>
-    <span class="pub-authors"><strong>Jin Lei</strong>, Antonio M. Moro</span>
-    <span class="pub-venue"><a href="https://doi.org/10.1103/PhysRevC.97.011601">Phys. Rev. C 97, 011601 (2018)</a></span>
-  </li>
-</ul>
-
-<h3>2017</h3>
-<ul class="pub-list">
-  <li>6Li in a three-body model with realistic forces: separable versus nonseparable approach<br>
-    <span class="pub-authors">L. Hlophe, <strong>Jin Lei</strong>, Ch. Elster, A. Nogga, F.M. Nunes</span>
-    <span class="pub-venue"><a href="https://doi.org/10.1103/PhysRevC.96.064003">Phys. Rev. C 96, 064003 (2017)</a></span>
-  </li>
-  <li>Comprehensive analysis of large alpha yields observed in 6Li-induced reactions<br>
-    <span class="pub-authors"><strong>Jin Lei</strong>, Antonio M. Moro</span>
-    <span class="pub-venue"><a href="https://doi.org/10.1103/PhysRevC.95.044605">Phys. Rev. C 95, 044605 (2017)</a></span>
-  </li>
-  <li>Toward a complete theory for predicting inclusive deuteron breakup away from stability<br>
-    <span class="pub-authors">G. Potel et al. (incl. <strong>Jin Lei</strong>)</span>
-    <span class="pub-venue"><a href="https://doi.org/10.1140/epja/i2017-12371-9">Eur. Phys. J. A 53, 178 (2017)</a></span>
-  </li>
-</ul>
-
-<h3>2016</h3>
-<ul class="pub-list">
-  <li>Investigation of the 238U(d,p) surrogate reaction via the simultaneous measurement of gamma-decay and fission probabilities<br>
-    <span class="pub-authors">Q. Ducasse et al. (incl. <strong>Jin Lei</strong>)</span>
-    <span class="pub-venue"><a href="https://doi.org/10.1103/PhysRevC.94.024614">Phys. Rev. C 94, 024614 (2016)</a></span>
-  </li>
-</ul>
-
-<h3>2015</h3>
-<ul class="pub-list">
-  <li>Numerical assessment of post-prior equivalence for inclusive breakup reactions<br>
-    <span class="pub-authors"><strong>Jin Lei</strong>, Antonio M. Moro</span>
-    <span class="pub-venue"><a href="https://doi.org/10.1103/PhysRevC.92.061602">Phys. Rev. C 92, 061602 (2015)</a></span>
-  </li>
-  <li>Reexamining closed-form formulae for inclusive breakup: Application to deuteron and $^6$Li induced reactions<br>
-    <span class="pub-authors"><strong>Jin Lei</strong>, Antonio M. Moro</span>
-    <span class="pub-venue"><a href="https://doi.org/10.1103/PhysRevC.92.044616">Phys. Rev. C 92, 044616 (2015)</a></span>
-  </li>
-</ul>
-
-<h2><span class="l-en">Conference proceedings and community reports</span><span class="l-zh">会议论文与社区报告</span></h2>
-
-<h3>2025</h3>
-<ul class="pub-list">
-  <li>Paths to superheavy nuclei<br>
-    <span class="pub-authors">K. Godbey et al. (incl. <strong>Jin Lei</strong>)</span>
-    <span class="pub-venue"><a href="https://doi.org/10.1088/1361-6471/ae198f">J. Phys. G 52, 120501 (2025)</a></span>
-  </li>
-</ul>
-
-<h3>2020</h3>
-<ul class="pub-list">
-  <li>Reaction Theory and Advanced CDCC<br>
-    <span class="pub-authors">A.M. Moro, J. Casal, <strong>Jin Lei</strong>, M. Gómez-Ramos</span>
-    <span class="pub-venue"><a href="https://doi.org/10.1088/1742-6596/1643/1/012100">J. Phys. Conf. Ser. 1643, 012100 (2020)</a></span>
-  </li>
-  <li>Three-body approach to deuteron-alpha scattering using realistic forces in a separable representation<br>
-    <span class="pub-authors">L. Hlophe, <strong>Jin Lei</strong>, Ch. Elster, A. Nogga, F.M. Nunes</span>
-    <span class="pub-venue"><a href="https://doi.org/10.1007/978-3-030-32357-8_47">Springer Proc. Phys. 238, 267 (2020)</a></span>
-  </li>
-  <li>White paper: from bound states to the continuum<br>
-    <span class="pub-authors">Calvin W. Johnson et al. (incl. <strong>Jin Lei</strong>)</span>
-    <span class="pub-venue"><a href="https://doi.org/10.1088/1361-6471/abb129">J. Phys. G 47, 123001 (2020)</a></span>
-  </li>
-</ul>
-
-<h3>2018</h3>
-<ul class="pub-list">
-  <li>New developments in reaction theory: preparing for the FRIB era<br>
-    <span class="pub-authors">F.M. Nunes et al. (incl. <strong>Jin Lei</strong>)</span>
-    <span class="pub-venue"><a href="https://doi.org/10.1051/epjconf/201817803001">EPJ Web Conf. 178, 03001 (2018)</a></span>
-  </li>
-</ul>
-
-<h3>2016</h3>
-<ul class="pub-list">
-  <li>Evaluation of inclusive breakup in reactions induced by deuteron within a three-body model<br>
-    <span class="pub-authors"><strong>Jin Lei</strong>, Antonio M. Moro</span>
-    <span class="pub-venue"><a href="https://doi.org/10.1007/978-3-319-21191-6_16">Springer Proc. Phys. 182, 207 (2016)</a></span>
-  </li>
-  <li>First simultaneous measurement of fission and gamma probabilities of 237U and 238U<br>
-    <span class="pub-authors">P. Marini et al. (incl. <strong>Jin Lei</strong>)</span>
-    <span class="pub-venue"><a href="https://doi.org/10.1051/epjconf/201612212004">EPJ Web Conf. 122, 12004 (2016)</a></span>
-  </li>
-  <li>Evaluation of inclusive breakup cross sections in reactions induced by weakly bound nuclei within a three-body model<br>
-    <span class="pub-authors"><strong>Jin Lei</strong>, Antonio M. Moro</span>
-    <span class="pub-venue"><a href="https://doi.org/10.1051/epjconf/201611706016">EPJ Web Conf. 117, 06016 (2016)</a></span>
-  </li>
-  <li>Recent advances in nuclear reaction theories for weakly bound nuclei: reexamining closed-form formulae for inclusive breakup<br>
-    <span class="pub-authors">Antonio M. Moro, <strong>Jin Lei</strong></span>
-    <span class="pub-venue"><a href="https://doi.org/10.1007/s00601-016-1085-1">Few-Body Syst. 57, 319 (2016)</a></span>
   </li>
 </ul>
 

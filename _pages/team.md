@@ -17,7 +17,7 @@ permalink: /team/
   <div class="member">
     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="member-photo" alt="{{ member.name | strip_html }}" />
     <div class="member-body">
-      <h4>{{ member.name }}</h4>
+      <h4><span class="l-en">{{ member.name }}</span><span class="l-zh">{% if member.name_zh %}{{ member.name_zh }}{% else %}{{ member.name }}{% endif %}</span></h4>
       <p><span class="l-en">{{ member.info }}</span><span class="l-zh">{% if member.info_zh %}{{ member.info_zh }}{% else %}{{ member.info }}{% endif %}</span></p>
       {% if member.number_educ and member.number_educ > 0 %}
       <ul>
@@ -40,7 +40,7 @@ permalink: /team/
   <div class="member">
     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="member-photo" alt="{{ member.name | strip_html }}" />
     <div class="member-body">
-      <h4>{{ member.name }}</h4>
+      <h4><span class="l-en">{{ member.name }}</span><span class="l-zh">{% if member.name_zh %}{{ member.name_zh }}{% else %}{{ member.name }}{% endif %}</span></h4>
       <p><span class="l-en">{{ member.info }}</span><span class="l-zh">{% if member.info_zh %}{{ member.info_zh }}{% else %}{{ member.info }}{% endif %}</span></p>
     </div>
   </div>
@@ -54,7 +54,7 @@ permalink: /team/
   <div class="member">
     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="member-photo" alt="{{ member.name | strip_html }}" />
     <div class="member-body">
-      <h4>{{ member.name }}</h4>
+      <h4><span class="l-en">{{ member.name }}</span><span class="l-zh">{% if member.name_zh %}{{ member.name_zh }}{% else %}{{ member.name }}{% endif %}</span></h4>
       {% if member.duration %}<p class="member-role"><span class="l-en">{{ member.duration }}</span><span class="l-zh">{% if member.duration_zh %}{{ member.duration_zh }}{% else %}{{ member.duration }}{% endif %}</span></p>{% endif %}
       <p><span class="l-en">{{ member.info }}</span><span class="l-zh">{% if member.info_zh %}{{ member.info_zh }}{% else %}{{ member.info }}{% endif %}</span></p>
     </div>

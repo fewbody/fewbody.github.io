@@ -1,7 +1,7 @@
 ---
 title: "Join us - QFBD Research Group"
 layout: textlay
-excerpt: "Undergraduate projects, graduate admission and postdoctoral positions in nuclear reaction theory at Tongji University."
+excerpt: "Undergraduate projects and graduate admission in nuclear reaction theory at Tongji University."
 sitemap: false
 permalink: /opening/
 ---
@@ -10,8 +10,8 @@ permalink: /opening/
 
 <h1><span class="l-en">Join us</span><span class="l-zh">加入我们</span></h1>
 
-<p class="lede l-en">We take undergraduates, master's students, doctoral students and postdocs. What is required is quantum mechanics at the level of a solid undergraduate course and a willingness to program. Prior nuclear physics is not required and, for a beginning student, is not even an advantage.</p>
-<p class="lede l-zh">我们招本科生、硕士、博士和博士后。要求是扎实的本科量子力学，以及愿意写程序。不要求核物理背景，对刚起步的学生来说，有没有这个背景甚至算不上优势。</p>
+<p class="lede l-en">We take undergraduates, master's students and doctoral students. What is required is quantum mechanics at the level of a solid undergraduate course and a willingness to program. Prior nuclear physics is not required and, for a beginning student, is not even an advantage.</p>
+<p class="lede l-zh">我们招本科生、硕士和博士。要求是扎实的本科量子力学，以及愿意写程序。不要求核物理背景，对刚起步的学生来说，有没有这个背景甚至算不上优势。</p>
 
 <h2><span class="l-en">Undergraduates</span><span class="l-zh">本科生</span></h2>
 
@@ -28,11 +28,6 @@ permalink: /opening/
 
 <p class="l-en">If you are considering applying, contact us before the application deadline rather than after. A short exchange about what you want to work on is worth more than a formal letter.</p>
 <p class="l-zh">如果你在考虑申请，请在截止日期之前而不是之后联系我们。就你想做什么先聊几句，比一封正式的信更有用。</p>
-
-<h2><span class="l-en">Postdoctoral researchers</span><span class="l-zh">博士后</span></h2>
-
-<p class="l-en">Postdoctoral positions open as funding allows. Candidates should hold a PhD in physics, with a strong record in nuclear reactions, few-body theory, computational physics or statistical inference applied to physics. Appointments are normally for two to three years. For current openings, terms and salary, write directly; the details change from year to year and we would rather quote you the current ones than leave an old advertisement standing.</p>
-<p class="l-zh">博士后岗位随经费情况开放。申请者需具有物理学博士学位，并在核反应、少体理论、计算物理，或应用于物理问题的统计推断方面有扎实的工作。聘期通常为两到三年。当前的岗位、条件和待遇请直接来信询问；这些每年都在变，我们宁可当面告诉你最新的，也不愿意在网站上挂一条过期的广告。</p>
 
 <h2><span class="l-en">Contact</span><span class="l-zh">联系方式</span></h2>
 

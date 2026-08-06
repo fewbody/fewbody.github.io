@@ -1,4 +1,5 @@
 - name: Hao Liu
+  name_zh: 刘昊
   photo: liuhao.jpeg
   info: >
     PhD student. Works on absorption mechanisms in coupled-channel reactions: exact flux
@@ -17,6 +18,7 @@
   education1:
 
 - name: Junzhe Liu
+  name_zh: 刘隽喆
   photo: liujunzhe.png
   info: >
     PhD student. Works on complex scaling methods for scattering and on the validity of the surface
@@ -32,6 +34,7 @@
   education1:
 
 - name: Jizheng Bo
+  name_zh: 薄纪铮
   photo: bojizheng.jpg
   info: >
     PhD student. Works on applying quantum few-body methods to nuclear decay, starting from two-body

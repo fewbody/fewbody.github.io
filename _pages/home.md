@@ -500,8 +500,8 @@ permalink: /
     <p class="l-en">A first project here does not start with review articles. It starts with a real calculation: take a global optical potential, compute the elastic angular distribution for a real system, pull the measured points from the database and put them on the same plot. Two hours in, the diffraction minima either line up or they do not, and you have found out something about the world by computing it yourself. Very few fields can hand a second-year student that experience.</p>
     <p class="l-zh">在这里，第一个课题不是从读综述开始的，是从一个真实的计算开始：拿一个全局光学势，算出某个真实体系的弹性散射角分布，再从数据库里把实验点调出来画在同一张图上。两个小时之后，衍射极小要么对上了，要么没对上，而你是靠自己算出来的方式知道了关于这个世界的一件事。能让大二学生得到这种体验的领域不多。</p>
 
-    <p class="l-en">Graduate students and postdocs are recruited every year. What we need is quantum mechanics at the level of a solid undergraduate course and a willingness to program; Fortran, Python and Julia are taught inside the group. What we do not need is prior nuclear physics.</p>
-    <p class="l-zh">硕士、博士和博士后每年都招。需要的是扎实的本科量子力学，以及愿意写程序；Fortran、Python 和 Julia 都在组内教。不需要的是核物理的先修背景。</p>
+    <p class="l-en">Master’s and doctoral students are recruited every year. What we need is quantum mechanics at the level of a solid undergraduate course and a willingness to program; Fortran, Python and Julia are taught inside the group. What we do not need is prior nuclear physics.</p>
+    <p class="l-zh">硕士和博士每年都招。需要的是扎实的本科量子力学，以及愿意写程序；Fortran、Python 和 Julia 都在组内教。不需要的是核物理的先修背景。</p>
 
     <p><a class="btn-solid" href="{{ site.url }}{{ site.baseurl }}/opening"><span class="l-en">Positions and how to apply</span><span class="l-zh">招生信息与申请方式</span></a></p>
 
