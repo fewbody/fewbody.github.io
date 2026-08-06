@@ -1,26 +1,47 @@
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
+{% assign base = site.url | append: site.baseurl %}
+<nav class="site-nav" role="navigation">
+  <div class="site-nav-inner">
 
-    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">QFBD Research Group</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/team">Team</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/seminar">Seminar</a></li>
-    <li><a href="{{ site.url }}{{ site.baseurl }}/groupmeeting">Group Meeting</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/publications">Publications</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/research">Research</a></li>
-		<!-- <li><a href="{{ site.url }}{{ site.baseurl }}/opening">Opening</a></li> -->
-		<li><a href="{{ site.url }}{{ site.baseurl }}/codes">Codes</a></li>
-	  </ul>
-	</div>
+    <a class="site-brand" href="{{ base }}/">QFBD<span class="brand-sub">Tongji University</span></a>
+
+    <ul class="site-menu" id="site-menu">
+      <li><a {% if page.url contains '/research' %}class="active"{% endif %} href="{{ base }}/research"><span class="l-en">Research</span><span class="l-zh">研究方向</span></a></li>
+      <li><a {% if page.url contains '/publications' %}class="active"{% endif %} href="{{ base }}/publications"><span class="l-en">Publications</span><span class="l-zh">论文</span></a></li>
+      <li><a {% if page.url contains '/codes' %}class="active"{% endif %} href="{{ base }}/codes"><span class="l-en">Codes</span><span class="l-zh">代码</span></a></li>
+      <li><a {% if page.url contains '/team' %}class="active"{% endif %} href="{{ base }}/team"><span class="l-en">Team</span><span class="l-zh">成员</span></a></li>
+      <li><a {% if page.url contains '/seminar' %}class="active"{% endif %} href="{{ base }}/seminar"><span class="l-en">Seminar</span><span class="l-zh">学术报告</span></a></li>
+      <li><a {% if page.url contains '/groupmeeting' %}class="active"{% endif %} href="{{ base }}/groupmeeting"><span class="l-en">Meetings</span><span class="l-zh">组会</span></a></li>
+      <li><a {% if page.url contains '/opening' %}class="active"{% endif %} href="{{ base }}/opening"><span class="l-en">Join us</span><span class="l-zh">加入我们</span></a></li>
+    </ul>
+
+    <div class="nav-right">
+      <button class="lang-toggle" id="lang-toggle" type="button" aria-label="Switch language">
+        <span class="l-en">中文</span><span class="l-zh">EN</span>
+      </button>
+      <button class="nav-burger" id="nav-burger" type="button" aria-label="Menu" aria-expanded="false">&#9776;</button>
+    </div>
+
   </div>
-</div>
+</nav>
+
+<script>
+  (function () {
+    var toggle = document.getElementById('lang-toggle');
+    if (toggle) {
+      toggle.addEventListener('click', function () {
+        var root = document.documentElement;
+        var next = root.getAttribute('data-lang') === 'zh' ? 'en' : 'zh';
+        root.setAttribute('data-lang', next);
+        try { localStorage.setItem('qfbd-lang', next); } catch (e) {}
+      });
+    }
+    var burger = document.getElementById('nav-burger');
+    var menu = document.getElementById('site-menu');
+    if (burger && menu) {
+      burger.addEventListener('click', function () {
+        var open = menu.classList.toggle('open');
+        burger.setAttribute('aria-expanded', open ? 'true' : 'false');
+      });
+    }
+  })();
+</script>

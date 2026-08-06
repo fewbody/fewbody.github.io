@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Quantum Few-Body Dynamics Research Group(QFBD)
-email: your-email@domain.com
+title: Quantum Few-Body Dynamics Group, Tongji University
+email: jinl@tongji.edu.cn
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Nuclear reaction theory group led by Jin Lei at the Department of Physics, Tongji University.
+  Inclusive breakup and incomplete fusion, absorption mechanisms in coupled-channel theory,
+  scattering solvers and emulators, and uncertainty quantification for optical potentials.
 baseurl: ""
 url: ""
 

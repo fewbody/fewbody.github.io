@@ -1,13 +1,15 @@
 ---
-title: "QFBD Research Group - Group Meeting"
+title: "Group meetings - QFBD Research Group"
 layout: piclay
-excerpt: "QFBD Research Group -- Group Meeting"
+excerpt: "Group meeting archive of the Quantum Few-Body Dynamics Group, Tongji University."
 sitemap: false
 permalink: /groupmeeting/
 ---
 
-# Group Meeting
-# Next group meeting will be held on 2023/3/19.
+<h1><span class="l-en">Group meetings</span><span class="l-zh">组会</span></h1>
+
+<p class="lede l-en">Slides from the weekly group meeting.</p>
+<p class="lede l-zh">每周组会的报告材料。</p>
 
 # 2024/3/12
 * Intial wave function. [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/initial wavefunction7.pdf)

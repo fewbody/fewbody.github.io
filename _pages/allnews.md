@@ -1,14 +1,15 @@
 ---
-title: "News"
+title: "News - QFBD Research Group"
 layout: textlay
-excerpt: "Tangram Nuclear Theory Collaboration"
+excerpt: "News from the Quantum Few-Body Dynamics Group, Tongji University."
 sitemap: false
 permalink: /allnews.html
 ---
 
-# News
+<div markdown="0">
 
-{% for article in site.data.news %}
-<p>{{ article.date }} <br>
-<em>{{ article.headline }}</em></p>
-{% endfor %}
+<h1><span class="l-en">News</span><span class="l-zh">动态</span></h1>
+
+{% include news_full.html %}
+
+</div>

@@ -1,12 +1,16 @@
 ---
-title: "QFBD Research Group - Seminar"
+title: "Seminar - QFBD Research Group"
 layout: textlay
-excerpt: "Seminar"
+excerpt: "Seminar series of the Quantum Few-Body Dynamics Group, Tongji University."
 sitemap: false
 permalink: /seminar/
 ---
 
-# Seminars
+<h1><span class="l-en">Seminars</span><span class="l-zh">学术报告</span></h1>
+
+<p class="lede l-en">Talks hosted by the group at Tongji University, most recent first.</p>
+<p class="lede l-zh">课题组在同济大学主办的学术报告，按时间倒序排列。</p>
+
 * 2025.07.16, Some Trends in Nuclear Reaction Theory for basic science and applications, Gregory Potel, University of Seville, [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/Potel_Shanghai.pdf)
 * 2025.03.11, Predicting hypernuclei based on chiral interactions, Andreas Nogga, Senior Scientist, IAS-4, Forschungszentrum Jülich, [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/seminar-tongji-2025-nogga.pdf)
 * 2024.11.15, Introduction to the Science of Superheavy, Witold Nazarewicz, Professor, FRIB/MSU, [slides](https://raw.githubusercontent.com/fewbody/fewbody.github.io/downloads-storage/SHE-Tongji-Nazarewicz.pptx)

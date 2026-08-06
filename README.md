@@ -1,51 +1,64 @@
-# QFBD Research Group Website
+# QFBD Research Group website
 
-This is the official website of the Quantum Few-Body Dynamics (QFBD) Research Group at the School of Physics Science and Engineering, Tongji University, Shanghai, China.
+Source for [fewbody.com](https://fewbody.com), the website of the Quantum Few-Body Dynamics (QFBD)
+group led by Jin Lei at the Department of Physics, Tongji University, Shanghai.
 
-## About Our Group
+Built with Jekyll and served by GitHub Pages from the `gh-pages` branch. Large downloads (seminar
+slides, teaching code archives) live on the separate `downloads-storage` branch and are linked by
+raw URL, which keeps this branch small.
 
-Led by Professor Jin Lei, our interdisciplinary team specializes in theoretical nuclear physics, with particular expertise in:
+## Editing
 
-- **Quantum Few-Body Dynamics**: Advanced theoretical modeling using Faddeev equations and continuum methods
-- **Nuclear Reaction Theory**: Breakup, transfer, fusion, and scattering processes in exotic nuclei
-- **Weakly Bound Systems**: Halo nuclei and nuclei near the neutron/proton drip lines
-- **Computational Nuclear Physics**: Development of cutting-edge algorithms and computational tools
+| What you want to change | File |
+|---|---|
+| Landing page | `_pages/home.md` |
+| Research statement | `_pages/research.md` |
+| Code list | `_pages/codes.md` |
+| Recruiting page | `_pages/opening.md` |
+| Publications | `_pages/publications.md` |
+| People | `_data/team_members.yml`, `_data/students.yml`, `_data/alumni_members.yml` |
+| News items | `_data/news.yml` |
+| Seminars, group meetings | `_pages/seminar.md`, `_pages/groupmeeting.md` |
+| Navigation, footer | `_includes/header.html`, `_includes/footer.html` |
+| Styling | `css/main.scss` |
 
-## Research Focus
+## Bilingual content
 
-Our research bridges fundamental quantum mechanics with practical applications in:
-- **Stellar nucleosynthesis** and astrophysical processes
-- **Clean energy** through nuclear fusion research
-- **Medical isotope** production and applications
-- **Nuclear technology** advancement
+The site ships English and Chinese in the same page and switches between them with the button in
+the navigation bar. Any element with class `l-en` is shown in English mode and any element with
+class `l-zh` in Chinese mode; the choice is stored in `localStorage` under `qfbd-lang` and applied
+before first paint, so the page never flashes the wrong language. English is the default for a
+first-time visitor.
 
-## Website Technology
+To add bilingual text, write both versions as sibling elements:
 
-This website is powered by Jekyll with Bootstrap framework, hosted on GitHub Pages. The site features:
-- Responsive design optimized for academic content
-- Animated SVG graphics for quantum physics visualization
-- Publication management system
-- Team member profiles and research highlights
-- News and seminar information
+```html
+<p class="l-en">English sentence.</p>
+<p class="l-zh">中文句子。</p>
+```
 
-## Key Features
+Data files follow the same pattern with a `_zh` suffix: `headline` and `headline_zh` in
+`_data/news.yml`, `info` and `info_zh` in the people files. If the `_zh` field is missing, the
+English text is shown in both modes, so a partial translation degrades gracefully.
 
-- **Research Publications**: Comprehensive publication database with links and abstracts
-- **Team Profiles**: Detailed information about group members, students, and alumni
-- **Seminars & Events**: Regular seminar series and workshop information
-- **Educational Resources**: Lecture series and educational materials
-- **Collaboration Network**: Information about international collaborations
+## Publication list
 
-## Contact
+`_pages/publications.md` is generated from the INSPIRE-HEP author record `Lei.Jin.2`, so every
+journal, volume, page and DOI comes from a fetched record rather than being typed by hand. A few
+titles that INSPIRE stores with embedded MathML are patched from an explicit table in the generator
+script. Regenerate when new papers appear rather than editing entries by hand.
 
-**Principal Investigator**: Professor Jin Lei  
-**Email**: jinl@tongji.edu.cn  
-**Institution**: School of Physics Science and Engineering, Tongji University  
-**Location**: Shanghai, China
+## Local preview
 
-## Acknowledgments
+```
+bundle install
+bundle exec jekyll serve
+```
 
-This website template was adapted from the Allan Lab website template. We thank the Allan Lab at Leiden University for making their template available.
+Then open <http://localhost:4000>. Ruby 3.x is required by the current gem set.
 
-Website content and research information © 2020-2024 QFBD Research Group, Tongji University.
+## Credits
 
+The layout descends from the [Allan Lab](https://github.com/allanlab/allanlab) Jekyll template
+(Leiden University), heavily rewritten. Content and research material are the property of the QFBD
+group, Tongji University.

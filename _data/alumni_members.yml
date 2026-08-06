@@ -1,6 +1,14 @@
 - name: Yazhou Lu
   photo: luyazhou.jpeg
-  info: Master student from Tongji U, conducting research on the development of a semi-classical single folding potential based on the global nucleon-nucleus optical potential. He has published one paper in Physical Review C (Vol. 108, No. 024612, 2023)
+  duration: MSc, Tongji University
+  duration_zh: 同济大学硕士
+  info: >
+    Built a systematic single-folding optical potential for 6Li and 7Li from the KD02 global
+    nucleon-nucleus potential, tested across target masses 24 to 209 and 5 to 55 MeV per nucleon.
+    Lead author on Phys. Rev. C 108, 024612.
+  info_zh: >
+    以 KD02 全局核子核光学势为输入，构建了 6Li 和 7Li 的系统单折叠光学势，并在靶质量 24 至 209、
+    每核子 5 至 55 MeV 的范围内做了检验。以第一作者发表 Phys. Rev. C 108, 024612。
   email: 2130949@tongji.edu.cn
   number_educ: 0
   education1:

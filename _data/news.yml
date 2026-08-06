@@ -1,21 +1,43 @@
+# Newest first. `headline` is English, `headline_zh` is the Chinese version
+# shown when the site language toggle is set to 中文.
 
+- date: 2026.09.28
+  headline: "Jin Lei gives an invited talk at the 6th International Workshop on Quasi-Free Scattering with Radioactive-Ion Beams, Takayama, Japan."
+  headline_zh: "金磊受邀在第六届放射性束准自由散射国际研讨会（日本高山）作邀请报告。"
 
-# - date: 1. October 2021
-#   headline: Maialen will join us within a collaboration with the <a href="http://www.ingmarswart.nl">Swart Lab</a> -- welcome Maialen!
-#
-# - date: 15. September 2021
-#   headline: Amber will join us with Casimir-Nanofront PhD fellowship -- welcome Amber!
-#
-# - date: 28. June 2021
-#   headline: Welcome Jinwon!
-#
-# - date: 16. March 2021
-#   headline: "Koen wrote about his research <a href='https://epn.eps.org/wp-content/uploads/2021/04/EPN-52-2.pdf'>in EurophysicsNews</a> (page 12)."
-#
+- date: 2026.07.28
+  headline: "The spectator approximation on the detected fragment is removed from the Ichimura-Austern-Vincent model, generalizing its sum rules. <a href='https://doi.org/10.1103/rbph-64rs'>Phys. Rev. C 114, 014632</a>."
+  headline_zh: "去掉 Ichimura-Austern-Vincent 模型中对被探测碎片的旁观者近似，将其求和规则推广。<a href='https://doi.org/10.1103/rbph-64rs'>Phys. Rev. C 114, 014632</a>。"
 
-- data: 2022.10.07
-  headline: "Liu Junzhe will join us as a PhD student -- welcome Liu Junzhe!"
+- date: 2026.07.16
+  headline: "Hao Liu, Jin Lei and Zhongzhou Ren give an exact construction of the coupled-channel Green's function and prove it unique. <a href='https://doi.org/10.1103/6jvb-2kp2'>Phys. Rev. C 114, 014623</a>."
+  headline_zh: "刘昊、金磊、任中洲给出耦合道格林函数的严格构造并证明其唯一性。<a href='https://doi.org/10.1103/6jvb-2kp2'>Phys. Rev. C 114, 014623</a>。"
+
+- date: 2026.06.22
+  headline: "PINN-ECS is published and released: exterior complex scaling makes physics-informed neural networks usable for nuclear scattering. <a href='https://doi.org/10.1103/sjz4-pq6p'>Phys. Rev. C 113, 064618</a>."
+  headline_zh: "PINN-ECS 发表并开源：外部复标度让物理信息神经网络能用于核散射。<a href='https://doi.org/10.1103/sjz4-pq6p'>Phys. Rev. C 113, 064618</a>。"
+
+- date: 2026.06.16
+  headline: "Jin Lei is appointed Junior Editor of Chinese Physics C."
+  headline_zh: "金磊受聘为《Chinese Physics C》青年编委。"
+
+- date: 2026.05.12
+  headline: "An incoming-wave boundary condition combined with a complex potential separates true fusion from peripheral loss. <a href='https://doi.org/10.1016/j.physletb.2026.140479'>Phys. Lett. B 877, 140479</a>."
+  headline_zh: "入射波边界条件配合复势，把真正的熔合与外围损失分开。<a href='https://doi.org/10.1016/j.physletb.2026.140479'>Phys. Lett. B 877, 140479</a>。"
+
+- date: 2026.04.15
+  headline: "A reduced-basis emulator reproduces an 18-parameter continuum-discretized coupled-channel calculation about 220 times faster. <a href='https://doi.org/10.1103/n24x-d9gm'>Phys. Rev. C 113, 044610</a>."
+  headline_zh: "降基代理模型以约 220 倍的速度复现 18 参数的连续离散化耦合道计算。<a href='https://doi.org/10.1103/n24x-d9gm'>Phys. Rev. C 113, 044610</a>。"
+
+- date: 2022.10.07
+  headline: "Junzhe Liu joins the group as a PhD student. Welcome!"
+  headline_zh: "刘隽喆加入课题组，攻读博士学位。欢迎！"
+
 - date: 2022.09.01
-  headline: "Jizheng Bo join us as a PhD student -- welcome Jizheng Bo!" 
+  headline: "Jizheng Bo joins the group as a PhD student. Welcome!"
+  # TODO: replace with the Chinese characters of Jizheng Bo's name.
+  headline_zh: "Jizheng Bo 加入课题组，攻读博士学位。欢迎！"
+
 - date: 2021.09.20
-  headline: "Liu Hao will join us as a PhD student -- welcome Liu Hao!"
+  headline: "Hao Liu joins the group as a PhD student. Welcome!"
+  headline_zh: "刘昊加入课题组，攻读博士学位。欢迎！"

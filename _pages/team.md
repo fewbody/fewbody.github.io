@@ -1,196 +1,65 @@
 ---
-title: "QFBD Research Group - Team"
+title: "Team - QFBD Research Group"
 layout: gridlay
-excerpt: "QFBD Research Group: Team members"
+excerpt: "Members of the Quantum Few-Body Dynamics Group, Tongji University."
 sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+<div markdown="0">
 
-## Faculty
-{% assign number_printed = 0 %}
+<h1><span class="l-en">Group members</span><span class="l-zh">课题组成员</span></h1>
+
+<h2><span class="l-en">Faculty</span><span class="l-zh">教师</span></h2>
+
+<div class="member-grid">
 {% for member in site.data.team_members %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
+  <div class="member">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="member-photo" alt="{{ member.name | strip_html }}" />
+    <div class="member-body">
+      <h4>{{ member.name }}</h4>
+      <p><span class="l-en">{{ member.info }}</span><span class="l-zh">{% if member.info_zh %}{{ member.info_zh }}{% else %}{{ member.info }}{% endif %}</span></p>
+      {% if member.number_educ and member.number_educ > 0 %}
+      <ul>
+        {% for i in (1..member.number_educ) %}
+          {% assign key = 'education' | append: i %}
+          {% if member[key] %}<li>{{ member[key] }}</li>{% endif %}
+        {% endfor %}
+      </ul>
+      {% endif %}
+      {% if member.email %}<p class="member-mail"><a href="mailto:{{ member.email }}">{{ member.email }}</a></p>{% endif %}
+    </div>
+  </div>
 {% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
 </div>
-{% endif %}
 
+<h2><span class="l-en">PhD and master's students</span><span class="l-zh">博士与硕士研究生</span></h2>
 
-
-
-## PhD and Master Students
-{% assign number_printed = 0 %}
+<div class="member-grid">
 {% for member in site.data.students %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
+  <div class="member">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="member-photo" alt="{{ member.name | strip_html }}" />
+    <div class="member-body">
+      <h4>{{ member.name }}</h4>
+      <p><span class="l-en">{{ member.info }}</span><span class="l-zh">{% if member.info_zh %}{{ member.info_zh }}{% else %}{{ member.info }}{% endif %}</span></p>
+    </div>
+  </div>
 {% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
 </div>
-{% endif %}
 
+<h2><span class="l-en">Alumni</span><span class="l-zh">已毕业成员</span></h2>
 
-## Alumni
-
-{% assign number_printed = 0 %}
+<div class="member-grid">
 {% for member in site.data.alumni_members %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
-  <ul style="overflow: hidden">
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-<!-- ## Former visitors, BSc/ MSc students
-<div class="row">
-
-<div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
+  <div class="member">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="member-photo" alt="{{ member.name | strip_html }}" />
+    <div class="member-body">
+      <h4>{{ member.name }}</h4>
+      {% if member.duration %}<p class="member-role"><span class="l-en">{{ member.duration }}</span><span class="l-zh">{% if member.duration_zh %}{{ member.duration_zh }}{% else %}{{ member.duration }}{% endif %}</span></p>{% endif %}
+      <p><span class="l-en">{{ member.info }}</span><span class="l-zh">{% if member.info_zh %}{{ member.info_zh }}{% else %}{{ member.info }}{% endif %}</span></p>
+    </div>
+  </div>
 {% endfor %}
 </div>
 
-<div class="col-sm-4 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
 </div>
-
-<div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-</div> -->

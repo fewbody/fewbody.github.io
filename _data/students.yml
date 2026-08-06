@@ -1,32 +1,44 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
-
-
-
 - name: Hao Liu
   photo: liuhao.jpeg
-  info: PhD student from Tongji U, conducting research on the CDCC method, focusing specifically on the microscopic description of the internal structure of the projectile. He has published one paper in Physical Review C (Vol. 108, No. 014617, 2023)
+  info: >
+    PhD student. Works on absorption mechanisms in coupled-channel reactions: exact flux
+    decompositions of the absorption cross section, the Feshbach dynamic polarization potential with
+    the full continuum coupling retained, and the construction and uniqueness of the coupled-channel
+    Green's function. Lead author on Phys. Rev. C 108, 014617; Phys. Rev. C 111, 024316;
+    Phys. Rev. C 113, 054601; Phys. Rev. C 114, 014623; Phys. Lett. B 877, 140479 and
+    Phys. Lett. B 880, 140716.
+  info_zh: >
+    博士生。研究耦合道反应中的吸收机制：吸收截面的严格流分解、保留全部连续态耦合的 Feshbach 动力学极化势，
+    以及耦合道格林函数的构造与唯一性。以第一作者发表 Phys. Rev. C 108, 014617；Phys. Rev. C 111, 024316；
+    Phys. Rev. C 113, 054601；Phys. Rev. C 114, 014623；Phys. Lett. B 877, 140479 和
+    Phys. Lett. B 880, 140716。
   email: 1853071@tongji.edu.cn
   number_educ: 0
   education1:
-  
+
 - name: Junzhe Liu
   photo: liujunzhe.png
-  info: PhD student from Tongji U, conducting research on the inclusive breakup reaction model with a particular emphasis on surrogate reactions. He has published one paper in Physical Review C (Vol. 108, No. 024606, 2023)
+  info: >
+    PhD student. Works on complex scaling methods for scattering and on the validity of the surface
+    approximation in reactions induced by weakly bound nuclei. Lead author on Phys. Rev. C 108,
+    024606 and Phys. Lett. B 858, 139070, and the principal developer of the COLOSS solver released
+    in Comput. Phys. Commun. 311, 109568.
+  info_zh: >
+    博士生。研究散射问题的复标度方法，以及弱束缚核诱发反应中表面近似的适用性。以第一作者发表
+    Phys. Rev. C 108, 024606 和 Phys. Lett. B 858, 139070，并且是 Comput. Phys. Commun. 311, 109568
+    所发布的 COLOSS 求解器的主要开发者。
   email: junzliu@126.com
   number_educ: 0
   education1:
 
 - name: Jizheng Bo
   photo: bojizheng.jpg
-  info: PhD student from Tongji U, conducting research on the application of the quantum few-body model to nuclear decay processes. 
+  info: >
+    PhD student. Works on applying quantum few-body methods to nuclear decay, starting from two-body
+    alpha decay and moving toward multi-fragment emission in the same continuum framework used for
+    breakup.
+  info_zh: >
+    博士生。研究把量子少体方法用于核衰变，从两体的 alpha 衰变出发，逐步走向在与破裂相同的连续态框架内处理多碎片发射。
   email: 2211389@tongji.edu.cn
   number_educ: 0
   education1:
