@@ -41,6 +41,37 @@ Data files follow the same pattern with a `_zh` suffix: `headline` and `headline
 `_data/news.yml`, `info` and `info_zh` in the people files. If the `_zh` field is missing, the
 English text is shown in both modes, so a partial translation degrades gracefully.
 
+`?lang=zh` and `?lang=en` override the stored choice and persist it, which is how you send someone
+a link that opens in a particular language.
+
+### The two languages are not translations of each other
+
+This is deliberate and it is the rule to keep. The two versions address different readers:
+
+- **English is for colleagues**: collaborators, referees, people deciding whether to invite a talk
+  or start a project. It can use the field's vocabulary without explaining it.
+- **Chinese is for students at Tongji**, mostly second and third year, which is who the recruiting
+  pages exist for. A term the reader cannot be assumed to know gets explained where it first
+  appears. A reader who has taken quantum mechanics and no nuclear physics should finish the page
+  able to say what the group works on.
+
+So the same section says different things in the two languages, at different lengths, in a
+different order. Do not "fix" this by translating one side into the other, and do not run a
+machine translation over either. Two consequences worth knowing:
+
+1. **An edit to content usually needs two edits**, one per language, each written for its own
+   reader. Changing only one side is how the two drift apart in substance rather than in style.
+2. **The `l-en` and `l-zh` block counts must stay equal on every page.** That is the cheap check
+   that nothing was dropped:
+
+   ```
+   grep -o 'l-en' _site/index.html | wc -l
+   grep -o 'l-zh' _site/index.html | wc -l
+   ```
+
+Two house rules apply to both languages: no dashes of any kind (`—` or `——`; use commas, colons,
+semicolons or parentheses), and no summary flourish at the end of a paragraph.
+
 ## Publication list
 
 `_pages/publications.md` is generated from the INSPIRE-HEP author record `Lei.Jin.2`, so every
