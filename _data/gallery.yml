@@ -1,0 +1,51 @@
+# Group photo gallery, newest first. Rendered by _pages/gallery.md.
+# caption is the English text (written for colleagues), caption_zh the Chinese
+# text (matches the annotation printed on the photo). Keep both present.
+
+- image: horiuchi-2026.jpg
+  caption: "Wataru Horiuchi visiting the group, July 2026."
+  caption_zh: "日本Wataru Horiuchi教授访问课题组（2026年7月）"
+
+- image: nazarewicz-2024.jpg
+  caption: "Witold Nazarewicz (FRIB / Michigan State University) visiting Tongji, November 2024."
+  caption_zh: "密西根州立大学/FRIB Witold Nazarewicz教授访问同济大学（2024年11月）"
+
+- image: liuhao-erice-2024.jpg
+  caption: "PhD student Hao Liu at the Erice summer school, Sicily, 2024."
+  caption_zh: "课题组博士生刘昊赴意大利Erice参加暑期班（2024年）"
+
+- image: ploszajczak-2024.jpg
+  caption: "Marek Ploszajczak (GANIL) visiting Tongji, May 2024."
+  caption_zh: "法国大型重离子国家加速器实验室(GANIL)Marek Ploszajczak研究员访问同济大学（2024年5月）"
+
+- image: hagino-descouvemont-2024.jpg
+  caption: "Kouichi Hagino (Kyoto University) and Pierre Descouvemont (Université Libre de Bruxelles) visiting Tongji, April 2024."
+  caption_zh: "日本Hagino教授与比利时Descouvemont教授访问同济大学（2024年4月）"
+
+- image: descouvemont-2024.jpg
+  caption: "Pierre Descouvemont (Université Libre de Bruxelles) with the group, April 2024."
+  caption_zh: "比利时布鲁塞尔自由大学Pierre Descouvemont教授访问课题组（2024年4月）"
+
+- image: liuhao-imp-2023.jpg
+  caption: "PhD student Hao Liu on exchange at the Institute of Modern Physics, Lanzhou."
+  caption_zh: "课题组博士生刘昊赴兰州近代物理研究所交流学习"
+
+- image: gnech-2023.jpg
+  caption: "Alex Gnech (Jefferson Lab) visiting the group, November 2023."
+  caption_zh: "美国杰斐逊国家实验室助理教授Alex Gnech访问课题组（2023年11月）"
+
+- image: liuhao-sevilla-2023.jpg
+  caption: "PhD student Hao Liu on exchange at the University of Seville."
+  caption_zh: "课题组博士生刘昊赴西班牙塞维利亚大学交流"
+
+- image: liuhao-npc-2023.jpg
+  caption: "PhD student Hao Liu speaking at the 18th National Conference on Nuclear Physics, 2023."
+  caption_zh: "课题组博士生刘昊于2023年第十八届核物理大会作报告"
+
+- image: liujunzhe-npc-2023.jpg
+  caption: "PhD student Junzhe Liu speaking at the 18th National Conference on Nuclear Physics, 2023."
+  caption_zh: "课题组博士生刘隽喆于2023年第十八届核物理大会作报告"
+
+- image: liujunzhe-ect-2023.jpg
+  caption: "PhD student Junzhe Liu at the ECT* workshop, Trento."
+  caption_zh: "课题组博士生刘隽喆赴欧洲核物理及相关领域研究中心(ECT*)交流"
