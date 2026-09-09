@@ -17,6 +17,18 @@ permalink: /publications/
 
 <h3>2026</h3>
 <ul class="pub-list">
+  <li>Self-consistent spectral framework for inclusive nonelastic breakup: The Trojan-horse method as its sub-Coulomb resonant limit<br>
+    <span class="pub-authors"><strong>Jin Lei</strong></span>
+    <span class="pub-venue"><a href="https://doi.org/10.1103/zpsb-vhqc">Phys. Rev. C 114, 034606 (2026)</a></span>
+  </li>
+  <li>HPRMAT: A high-performance R-matrix solver with GPU acceleration for coupled-channel problems in nuclear physics<br>
+    <span class="pub-authors"><strong>Jin Lei</strong></span>
+    <span class="pub-venue"><a href="https://doi.org/10.1016/j.cpc.2026.110379">Comput. Phys. Commun. 329, 110379 (2026)</a></span>
+  </li>
+  <li>Assessing continuum channel importance in continuum-discretized coupled-channels via dynamic polarization potential decomposition<br>
+    <span class="pub-authors"><strong>Jin Lei</strong>, Hao Liu</span>
+    <span class="pub-venue"><a href="https://doi.org/10.1103/ypj3-p6kw">Phys. Rev. C 114, 024605 (2026)</a></span>
+  </li>
   <li>Exact treatment of continuum couplings in nuclear optical potentials via Feshbach theory<br>
     <span class="pub-authors">Hao Liu, <strong>Jin Lei</strong>, Zhongzhou Ren</span>
     <span class="pub-venue"><a href="https://doi.org/10.1016/j.physletb.2026.140716">Phys. Lett. B 880, 140716 (2026)</a></span>
@@ -125,6 +137,10 @@ permalink: /publications/
 
 <h3>2022</h3>
 <ul class="pub-list">
+  <li>Elastic scattering and breakup reactions of neutron-rich nucleus 11Be on 208Pb at 210 MeV<br>
+    <span class="pub-authors">F.F. Duan et al. (incl. <strong>Jin Lei</strong>)</span>
+    <span class="pub-venue"><a href="https://doi.org/10.1103/PhysRevC.105.034602">Phys. Rev. C 105, 034602 (2022)</a></span>
+  </li>
   <li>Elastic scattering investigation of radioactive 10C on 208Pb at energies around the Coulomb barrier<br>
     <span class="pub-authors">K. Wang et al. (incl. <strong>Jin Lei</strong>)</span>
     <span class="pub-venue"><a href="https://doi.org/10.1103/PhysRevC.105.054616">Phys. Rev. C 105, 054616 (2022)</a></span>
