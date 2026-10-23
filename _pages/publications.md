@@ -17,6 +17,14 @@ permalink: /publications/
 
 <h3>2026</h3>
 <ul class="pub-list">
+  <li>Nonlocality in prior-form distorted-wave Born approximation<br>
+    <span class="pub-authors"><strong>Jin Lei</strong>, Zhongzhou Ren</span>
+    <span class="pub-venue"><a href="https://doi.org/10.1103/8lpg-kcff">Phys. Rev. C 114, 044620 (2026)</a></span>
+  </li>
+  <li>Inclusive breakup of three-body projectiles: A unified four-body framework for pair-detection and single-particle observables<br>
+    <span class="pub-authors"><strong>Jin Lei</strong></span>
+    <span class="pub-venue"><a href="https://doi.org/10.1103/z8cw-9yvn">Phys. Rev. C 114, 044618 (2026)</a></span>
+  </li>
   <li>Self-consistent spectral framework for inclusive nonelastic breakup: The Trojan-horse method as its sub-Coulomb resonant limit<br>
     <span class="pub-authors"><strong>Jin Lei</strong></span>
     <span class="pub-venue"><a href="https://doi.org/10.1103/zpsb-vhqc">Phys. Rev. C 114, 034606 (2026)</a></span>
@@ -81,6 +89,10 @@ permalink: /publications/
     <span class="pub-authors"><strong>Jin Lei</strong></span>
     <span class="pub-venue"><a href="https://doi.org/10.1103/l53j-32cp">Phys. Rev. C 112, 014609 (2025)</a></span>
   </li>
+  <li>Direct measurement of 8B+p and 7Be+2p cross sections for 9C+208Pb at 303 MeV<br>
+    <span class="pub-authors">G. Yang et al. (incl. <strong>Jin Lei</strong>)</span>
+    <span class="pub-venue"><a href="https://doi.org/10.1103/PhysRevC.111.064602">Phys. Rev. C 111, 064602 (2025)</a></span>
+  </li>
   <li>Continuum effects and the Trojan horse mechanism in halo nuclei-induced reactions: Implications for heavy isotope synthesis<br>
     <span class="pub-authors"><strong>Jin Lei</strong></span>
     <span class="pub-venue"><a href="https://doi.org/10.1103/PhysRevC.111.034610">Phys. Rev. C 111, 034610 (2025)</a></span>
@@ -88,6 +100,10 @@ permalink: /publications/
   <li>Kolmogorov-Arnold networks in nuclear binding energy prediction<br>
     <span class="pub-authors">Hao Liu, <strong>Jin Lei</strong>, Zhongzhou Ren</span>
     <span class="pub-venue"><a href="https://doi.org/10.1103/PhysRevC.111.024316">Phys. Rev. C 111, 024316 (2025)</a></span>
+  </li>
+  <li>Research progress on the reaction mechanism of halo nuclei based on quantum few-body theory (in Chinese)<br>
+    <span class="pub-authors"><strong>Jin Lei</strong></span>
+    <span class="pub-venue"><a href="https://doi.org/10.1360/TB-2024-0855">Chin. Sci. Bull. 70, 3270 (2025)</a></span>
   </li>
   <li>Paths to superheavy nuclei<br>
     <span class="pub-authors">K. Godbey et al. (incl. <strong>Jin Lei</strong>)</span>
@@ -100,6 +116,14 @@ permalink: /publications/
   <li>A complex scaling method for efficient and accurate scattering emulation in nuclear reactions<br>
     <span class="pub-authors">Junzhe Liu, <strong>Jin Lei</strong>, Zhongzhou Ren</span>
     <span class="pub-venue"><a href="https://doi.org/10.1016/j.physletb.2024.139070">Phys. Lett. B 858, 139070 (2024)</a></span>
+  </li>
+  <li>Elastic scattering and 7Li production in the 8Li + 120Sn reaction<br>
+    <span class="pub-authors">O. C. B. Santos et al. (incl. <strong>Jin Lei</strong>)</span>
+    <span class="pub-venue"><a href="https://doi.org/10.1103/PhysRevC.110.034610">Phys. Rev. C 110, 034610 (2024)</a></span>
+  </li>
+  <li>Neutron-transfer induced breakup of the Borromean nucleus 9Be<br>
+    <span class="pub-authors">G. Villanueva, A. M. Moro, J. Casal, <strong>Jin Lei</strong></span>
+    <span class="pub-venue"><a href="https://doi.org/10.1016/j.physletb.2024.138766">Phys. Lett. B 855, 138766 (2024)</a></span>
   </li>
   <li>Elastic scattering and breakup reactions of the mirror nuclei 12B and 12N on 208Pb using ab initio structure input<br>
     <span class="pub-authors">K. Wang et al. (incl. <strong>Jin Lei</strong>)</span>
@@ -141,7 +165,7 @@ permalink: /publications/
     <span class="pub-authors">F.F. Duan et al. (incl. <strong>Jin Lei</strong>)</span>
     <span class="pub-venue"><a href="https://doi.org/10.1103/PhysRevC.105.034602">Phys. Rev. C 105, 034602 (2022)</a></span>
   </li>
-  <li>Elastic scattering investigation of radioactive 10C on 208Pb at energies around the Coulomb barrier<br>
+  <li>Elastic scattering investigation of radioactive 13B and 13O projectiles on a 208Pb target at intermediate energies<br>
     <span class="pub-authors">K. Wang et al. (incl. <strong>Jin Lei</strong>)</span>
     <span class="pub-venue"><a href="https://doi.org/10.1103/PhysRevC.105.054616">Phys. Rev. C 105, 054616 (2022)</a></span>
   </li>
@@ -157,11 +181,11 @@ permalink: /publications/
     <span class="pub-authors">L. Yang et al. (incl. <strong>Jin Lei</strong>)</span>
     <span class="pub-venue"><a href="https://doi.org/10.1016/j.physletb.2020.136045">Phys. Lett. B 813, 136045 (2021)</a></span>
   </li>
-  <li>Comparison of semiclassical transfer to continuum model with Ichimura-Austern-Vincent model for one-neutron stripping<br>
+  <li>Comparison of semiclassical transfer to continuum model with Ichimura-Austern-Vincent model in medium energy knockout reactions<br>
     <span class="pub-authors"><strong>Jin Lei</strong>, Angela Bonaccorso</span>
     <span class="pub-venue"><a href="https://doi.org/10.1016/j.physletb.2020.136032">Phys. Lett. B 813, 136032 (2021)</a></span>
   </li>
-  <li>Evidence of the effect of strong stripping channels on the dynamics of the 8Li + 51V reaction<br>
+  <li>Evidence of the effect of strong stripping channels on the dynamics of the 8Li + 58Ni reaction<br>
     <span class="pub-authors">O.C. B. Santos et al. (incl. <strong>Jin Lei</strong>)</span>
     <span class="pub-venue"><a href="https://doi.org/10.1103/physrevc.103.064601">Phys. Rev. C 103, 064601 (2021)</a></span>
   </li>
