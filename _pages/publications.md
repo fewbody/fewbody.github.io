@@ -17,6 +17,10 @@ permalink: /publications/
 
 <h3>2026</h3>
 <ul class="pub-list">
+  <li>Differentiable emulation for high-dimensional Bayesian calibration of nuclear reaction models<br>
+    <span class="pub-authors"><strong>Jin Lei</strong></span>
+    <span class="pub-venue"><a href="https://doi.org/10.1103/9szm-dgtr">Phys. Rev. C 114, 054614 (2026)</a></span>
+  </li>
   <li>Nonlocality in prior-form distorted-wave Born approximation<br>
     <span class="pub-authors"><strong>Jin Lei</strong>, Zhongzhou Ren</span>
     <span class="pub-venue"><a href="https://doi.org/10.1103/8lpg-kcff">Phys. Rev. C 114, 044620 (2026)</a></span>

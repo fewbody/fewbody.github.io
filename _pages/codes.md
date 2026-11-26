@@ -94,6 +94,19 @@ permalink: /codes/
 
 </div>
 
+<h2><span class="l-en">Research agent</span><span class="l-zh">科研智能体</span></h2>
+
+<div class="code-grid">
+
+  <div class="code-card">
+    <h4>FUSION</h4>
+    <p class="l-en">Open-source research agent platform for nuclear physics. Its 26 skills package the working knowledge needed for one task each; 20 of them drive a public reaction, structure or nuclear-data code by starting from a verified input and passing a stated benchmark. The benchmark certifies that the calculation was set up and run correctly; whether the model suits the problem stays with the user.</p>
+    <p class="l-zh">面向核物理的开源科研智能体平台。平台把跑一套程序所需的经验写成“技能”交给大语言模型：从一份验证过的输入文件出发，先复现给定的基准结果，再去算新问题。目前共 26 个技能，其中 20 个各对应一套公开的核反应、核结构或核数据程序。基准只能说明程序装对了、算对了，模型选得合不合适仍要自己判断。</p>
+    <p class="links"><a href="https://github.com/jinleiphys/FUSION">GitHub</a> <a href="https://vibeinscience.com">Docs</a> <a href="https://arxiv.org/abs/2609.04742">arXiv</a></p>
+  </div>
+
+</div>
+
 <h2><span class="l-en">Teaching examples</span><span class="l-zh">教学示例</span></h2>
 
 <p class="l-en">Short, self-contained programs that solve the deuteron bound state four different ways. This is the usual first week for a new student in the group: the same physical answer reached through four numerical routes, so that the method and the physics can be told apart.</p>
